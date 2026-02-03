@@ -23,12 +23,12 @@ const Home = () => {
       {/* Hero Section */}
       <section className="py-20 md:py-28">
         <div className="text-center max-w-4xl mx-auto">
-          <div className="inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-purple-100 to-blue-100 dark:from-purple-900/30 dark:to-blue-900/30 px-4 py-2 text-sm font-medium mb-8">
+          <div className="inline-flex items-center gap-2 rounded-full bg-linear-to-r from-purple-100 to-blue-100 dark:from-purple-900/30 dark:to-blue-900/30 px-4 py-2 text-sm font-medium mb-8">
             <Sparkles className="w-4 h-4" />
             <span>Discover 1000+ AI Tools</span>
           </div>
 
-          <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold tracking-tight bg-gradient-to-r from-gray-900 via-gray-800 to-gray-900 dark:from-white dark:via-gray-200 dark:to-white bg-clip-text text-transparent">
+          <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold tracking-tight bg-linear-to-r from-gray-900 via-gray-800 to-gray-900 dark:from-white dark:via-gray-200 dark:to-white bg-clip-text text-transparent">
             Find the Perfect AI Tool for Every Task
           </h1>
 
@@ -151,7 +151,7 @@ const Home = () => {
 
       {/* CTA Section */}
       <section className="py-16 border-t border-gray-200 dark:border-gray-800">
-        <div className="text-center max-w-2xl mx-auto rounded-3xl bg-gradient-to-br from-gray-900 to-gray-800 dark:from-gray-800 dark:to-gray-900 p-12">
+        <div className="text-center max-w-2xl mx-auto rounded-3xl bg-linear-to-br from-gray-900 to-gray-800 dark:from-gray-800 dark:to-gray-900 p-12">
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
             Ready to Supercharge Your Workflow?
           </h2>

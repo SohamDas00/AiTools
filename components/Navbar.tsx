@@ -65,7 +65,7 @@ const Navbar = () => {
 
       {/* Mobile Menu - Now controlled by 'open' state */}
       <div 
-        className={`mobile-menu absolute top-[120px] left-0 w-full bg-white border-b border-gray-300 shadow-lg md:hidden transition-all duration-300 ease-in-out ${
+        className={`mobile-menu absolute top-30 left-0 w-full bg-white border-b border-gray-300 shadow-lg md:hidden transition-all duration-300 ease-in-out ${
           open ? 'block opacity-100 translate-y-0' : 'hidden opacity-0 -translate-y-4'
         }`}
       >
