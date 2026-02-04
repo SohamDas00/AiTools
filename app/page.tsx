@@ -3,14 +3,6 @@ import Link from "next/link";
 import { Search, Sparkles, TrendingUp, Filter } from 'lucide-react';
 
 const Home = () => {
-  const featuredCategories = [
-    { name: "Productivity", count: 127, icon: "📊", href: "/category/productivity" },
-    { name: "Writing", count: 89, icon: "✍️", href: "/category/writing" },
-    { name: "Design", count: 156, icon: "🎨", href: "/category/design" },
-    { name: "Development", count: 203, icon: "💻", href: "/category/development" },
-    { name: "Marketing", count: 94, icon: "📈", href: "/category/marketing" },
-    { name: "Video", count: 78, icon: "🎬", href: "/category/video" },
-  ];
 
   const stats = [
     { label: "AI Tools", value: "1000+" },
@@ -35,19 +27,6 @@ const Home = () => {
           <p className="mt-6 text-lg md:text-xl text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
             Explore our curated directory of cutting-edge AI tools. From productivity boosters to creative assistants, find exactly what you need.
           </p>
-
-          {/* Search Bar */}
-          <div className="mt-10 max-w-2xl mx-auto">
-            <div className="relative">
-              <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" />
-              <input
-                type="text"
-                placeholder="Search for AI tools, categories, or use cases..."
-                className="w-full rounded-full border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-900 pl-12 pr-4 py-4 text-sm focus:outline-none focus:ring-2 focus:ring-black dark:focus:ring-white"
-              />
-            </div>
-          </div>
-
           <div className="mt-8 flex flex-wrap justify-center gap-4">
             <Link
               href="/tools"
@@ -75,45 +54,7 @@ const Home = () => {
           </div>
         </div>
       </section>
-
-      {/* Featured Categories */}
-      <section className="py-16 border-t border-gray-200 dark:border-gray-800">
-        <div className="text-center mb-12">
-          <h2 className="text-3xl md:text-4xl font-bold">Explore by Category</h2>
-          <p className="mt-3 text-gray-600 dark:text-gray-400">
-            Browse AI tools organized by your needs
-          </p>
-        </div>
-
-        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
-          {featuredCategories.map((category) => (
-            <Link
-              key={category.name}
-              href={category.href}
-              className="group relative rounded-2xl border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-900 p-6 hover:shadow-lg hover:border-gray-300 dark:hover:border-gray-700 transition-all"
-            >
-              <div className="text-4xl mb-3">{category.icon}</div>
-              <h3 className="font-semibold text-sm group-hover:text-black dark:group-hover:text-white transition-colors">
-                {category.name}
-              </h3>
-              <p className="mt-1 text-xs text-gray-500 dark:text-gray-500">
-                {category.count} tools
-              </p>
-            </Link>
-          ))}
-        </div>
-
-        <div className="text-center mt-8">
-          <Link
-            href="/categories"
-            className="inline-flex items-center gap-2 text-sm font-medium hover:underline"
-          >
-            View all 50+ categories
-            <span>→</span>
-          </Link>
-        </div>
-      </section>
-
+      
       {/* Features */}
       <section className="py-16 border-t border-gray-200 dark:border-gray-800">
         <div className="grid md:grid-cols-3 gap-12">
