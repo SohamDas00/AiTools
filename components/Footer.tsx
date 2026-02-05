@@ -1,5 +1,5 @@
 "use client"
-import { Dribbble, Linkedin, Twitter, Youtube } from 'lucide-react';
+import { Dribbble, Github, Linkedin, Twitter, Youtube } from 'lucide-react';
 import React from 'react'
 
 const Footer=()=>{
@@ -41,17 +41,14 @@ const Footer=()=>{
                 <div className="flex flex-col max-md:items-center max-md:text-center gap-2 items-end">
                     <p className="max-w-60">Making every customer feel valued—no matter the size of your audience.</p>
                     <div className="flex items-center gap-4 mt-3">
-                        <a href="https://dribbble.com/" target="_blank" rel="noreferrer">
-                            <Dribbble/> 
-                        </a>
-                        <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
+                        <a href="https://www.linkedin.com/in/sohamdas00/" target="_blank" rel="noreferrer">
                             <Linkedin />
                         </a>
-                        <a href="https://x.com/" target="_blank" rel="noreferrer">
+                        <a href="https://x.com/SOHAMDAS449409" target="_blank" rel="noreferrer">
                             <Twitter/>
                         </a>
-                        <a href="https://www.youtube.com/" target="_blank" rel="noreferrer">
-                            <Youtube/>
+                        <a href="https://github.com/SohamDas00" target="_blank" rel="noreferrer">
+                            <Github/>
                         </a>
                     </div>
                     <p className="mt-3 text-center">© 2026 <a href="https://prebuiltui.com">AiTools</a></p>

@@ -56,7 +56,7 @@ const Navbar = () => {
         onClick={toggleMenu}
         className="menu-btn inline-block md:hidden active:scale-90 transition z-50"
       >
-        {open ? <X className="text-black" /> : <Menu className="text-black" />}
+        {open ? <X className="text-white" /> : <Menu className="text-white" />}
       </button>
 
       {/* Mobile Menu - Now controlled by 'open' state */}
@@ -79,20 +79,11 @@ const Navbar = () => {
           </li>
           <li>
             <a
-              href="/services"
+              href="/tools"
               className="text-sm hover:text-gray-500/80 transition block py-2"
               onClick={closeMenu}
             >
-              Services
-            </a>
-          </li>
-          <li>
-            <a
-              href="/portfolio"
-              className="text-sm hover:text-gray-500/80 transition block py-2"
-              onClick={closeMenu}
-            >
-              Portfolio
+              Tools
             </a>
           </li>
           <li>
@@ -105,16 +96,6 @@ const Navbar = () => {
             </a>
           </li>
         </ul>
-
-        <div className="px-6 pb-6">
-          <button
-            type="button"
-            className="bg-white text-gray-600 border border-gray-300 text-sm hover:bg-gray-50 active:scale-95 transition-all w-full h-11 rounded-full"
-            onClick={closeMenu}
-          >
-            Get started
-          </button>
-        </div>
       </div>
     </nav>
   );
