@@ -2,36 +2,38 @@ import { getAllTools } from "@/lib/tools";
 import { MetadataRoute } from "next";
 
 export default function sitemap(): MetadataRoute.Sitemap {
+  const baseUrl = "https://aitools-soham.vercel.app";
+
   const tools = getAllTools();
 
   const toolUrls = tools.map((tool) => ({
-    url: `https://aitools.vercel.app/tools/${tool.slug}`,
+    url: `${baseUrl}/tools/${tool.slug}`,
     lastModified: new Date(),
   }));
 
   return [
     {
-      url: "https://aitools.vercel.app/",
+      url: `${baseUrl}/`,
       lastModified: new Date(),
     },
     {
-      url: "https://aitools.vercel.app/tools",
+      url: `${baseUrl}/tools`,
       lastModified: new Date(),
     },
     {
-      url: "https://aitools.vercel.app/pricing",
+      url: `${baseUrl}/pricing`,
       lastModified: new Date(),
     },
     {
-      url: "https://aitools.vercel.app/pricing/free",
+      url: `${baseUrl}/pricing/free`,
       lastModified: new Date(),
     },
     {
-      url: "https://aitools.vercel.app/pricing/paid",
+      url: `${baseUrl}/pricing/paid`,
       lastModified: new Date(),
     },
     {
-      url: "https://aitools.vercel.app/pricing/freemium",
+      url: `${baseUrl}/pricing/freemium`,
       lastModified: new Date(),
     },
     ...toolUrls,
