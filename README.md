@@ -16,6 +16,19 @@ https://aitools-soham.vercel.app/
 
 <hr/>
 
+<h2>🎥 Loom Walkthrough</h2>
+<p>
+A short video walkthrough explaining the project structure, features, and approach used while building the AI Tools Directory application.
+</p>
+
+<p>
+<a href="https://www.loom.com/share/2128e00076414ec19eec4a91ee27be5d" target="_blank">
+Watch the project walkthrough
+</a>
+</p>
+
+<hr/>
+
 <h2>📌 Overview</h2>
 <p>
 This project is a modern AI tools directory where users can browse AI tools, search and filter them, view detailed information, and explore tools based on pricing models such as <strong>Free</strong>, <strong>Freemium</strong>, and <strong>Paid</strong>.
@@ -136,5 +149,4 @@ https://aitools-soham.vercel.app/
 <h2>👨‍💻 Author</h2>
 <p>
 <strong>Soham Das</strong><br/>
-Software Developer Intern Applicant
 </p>
