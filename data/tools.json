@@ -126,8 +126,8 @@
     "logo": ""
   },
   {
-    "name": "Anthropic Claude",
-    "slug": "anthropic-claude",
+    "name": "Anthropic Claude API",
+    "slug": "anthropic-claude-api",
     "category": "Development",
     "pricing": "Paid",
     "description": "Enterprise API access to Claude for building AI-powered applications.",
@@ -447,6 +447,4056 @@
     "pricing": "Freemium",
     "description": "Platform for accessing multiple AI chatbots including GPT-4, Claude, and more.",
     "website": "https://poe.com",
+    "logo": ""
+  },
+  {
+    "name": "Adobe Firefly",
+    "slug": "adobe-firefly",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "Adobe's generative AI for creating images, text effects, and design assets.",
+    "website": "https://firefly.adobe.com",
+    "logo": ""
+  },
+  {
+    "name": "Leonardo.AI",
+    "slug": "leonardo-ai",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "AI image generation platform for creating game assets, concept art, and illustrations.",
+    "website": "https://leonardo.ai",
+    "logo": ""
+  },
+  {
+    "name": "Playground AI",
+    "slug": "playground-ai",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "AI image creation tool for generating and editing art with multiple models.",
+    "website": "https://playground.ai",
+    "logo": ""
+  },
+  {
+    "name": "Ideogram",
+    "slug": "ideogram",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "AI image generator with strong text rendering capabilities inside images.",
+    "website": "https://ideogram.ai",
+    "logo": ""
+  },
+  {
+    "name": "Bing Image Creator",
+    "slug": "bing-image-creator",
+    "category": "Design",
+    "pricing": "Free",
+    "description": "Microsoft's AI image generator powered by DALL-E for creating images from prompts.",
+    "website": "https://www.bing.com/create",
+    "logo": ""
+  },
+  {
+    "name": "Pixlr AI",
+    "slug": "pixlr-ai",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "AI-powered photo editing and image generation platform.",
+    "website": "https://pixlr.com",
+    "logo": ""
+  },
+  {
+    "name": "Krea AI",
+    "slug": "krea-ai",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "Real-time AI image and video generation for creators and designers.",
+    "website": "https://www.krea.ai",
+    "logo": ""
+  },
+  {
+    "name": "Getimg.ai",
+    "slug": "getimg-ai",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "Suite of AI tools for image generation, editing, and expansion.",
+    "website": "https://getimg.ai",
+    "logo": ""
+  },
+  {
+    "name": "NightCafe Studio",
+    "slug": "nightcafe-studio",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "AI art generator with multiple models for creating artwork from text prompts.",
+    "website": "https://nightcafe.studio",
+    "logo": ""
+  },
+  {
+    "name": "Artbreeder",
+    "slug": "artbreeder",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "AI creative tool for blending and evolving images through collaborative generation.",
+    "website": "https://www.artbreeder.com",
+    "logo": ""
+  },
+  {
+    "name": "Remove.bg",
+    "slug": "remove-bg",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "AI tool that instantly removes backgrounds from images with one click.",
+    "website": "https://www.remove.bg",
+    "logo": ""
+  },
+  {
+    "name": "Cleanup.pictures",
+    "slug": "cleanup-pictures",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "AI-powered tool for removing unwanted objects and blemishes from photos.",
+    "website": "https://cleanup.pictures",
+    "logo": ""
+  },
+  {
+    "name": "Upscayl",
+    "slug": "upscayl",
+    "category": "Design",
+    "pricing": "Free",
+    "description": "Free and open-source AI image upscaler that enhances image resolution.",
+    "website": "https://upscayl.org",
+    "logo": ""
+  },
+  {
+    "name": "PhotoRoom",
+    "slug": "photoroom",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "AI photo editing app for removing backgrounds and creating product photos.",
+    "website": "https://www.photoroom.com",
+    "logo": ""
+  },
+  {
+    "name": "Fotor AI",
+    "slug": "fotor-ai",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "AI-powered photo editing and design tool with image generation features.",
+    "website": "https://www.fotor.com",
+    "logo": ""
+  },
+  {
+    "name": "Pika Labs",
+    "slug": "pika-labs",
+    "category": "Video",
+    "pricing": "Freemium",
+    "description": "AI video generation platform for creating and editing videos from text.",
+    "website": "https://pika.art",
+    "logo": ""
+  },
+  {
+    "name": "Sora",
+    "slug": "sora",
+    "category": "Video",
+    "pricing": "Paid",
+    "description": "OpenAI's text-to-video model that generates realistic and imaginative video scenes.",
+    "website": "https://sora.com",
+    "logo": ""
+  },
+  {
+    "name": "Kling AI",
+    "slug": "kling-ai",
+    "category": "Video",
+    "pricing": "Freemium",
+    "description": "AI video generation tool by Kuaishou for creating high-quality videos from text.",
+    "website": "https://klingai.com",
+    "logo": ""
+  },
+  {
+    "name": "HeyGen",
+    "slug": "heygen",
+    "category": "Video",
+    "pricing": "Freemium",
+    "description": "AI video generator for creating personalized videos with talking avatars.",
+    "website": "https://www.heygen.com",
+    "logo": ""
+  },
+  {
+    "name": "Vidyo.ai",
+    "slug": "vidyo-ai",
+    "category": "Video",
+    "pricing": "Freemium",
+    "description": "AI tool that repurposes long videos into short social media clips automatically.",
+    "website": "https://vidyo.ai",
+    "logo": ""
+  },
+  {
+    "name": "Opus Clip",
+    "slug": "opus-clip",
+    "category": "Video",
+    "pricing": "Freemium",
+    "description": "AI video repurposing tool that clips long videos into viral short-form content.",
+    "website": "https://www.opus.pro",
+    "logo": ""
+  },
+  {
+    "name": "InVideo AI",
+    "slug": "invideo-ai",
+    "category": "Video",
+    "pricing": "Freemium",
+    "description": "AI video creation platform that turns text scripts into professional videos.",
+    "website": "https://invideo.io",
+    "logo": ""
+  },
+  {
+    "name": "Fliki",
+    "slug": "fliki",
+    "category": "Video",
+    "pricing": "Freemium",
+    "description": "AI video creation tool that converts text to video with voiceovers.",
+    "website": "https://fliki.ai",
+    "logo": ""
+  },
+  {
+    "name": "Captions",
+    "slug": "captions",
+    "category": "Video",
+    "pricing": "Freemium",
+    "description": "AI-powered video captioning and editing app for social media content.",
+    "website": "https://www.captions.ai",
+    "logo": ""
+  },
+  {
+    "name": "Submagic",
+    "slug": "submagic",
+    "category": "Video",
+    "pricing": "Freemium",
+    "description": "AI tool that auto-generates captions and subtitles for short-form videos.",
+    "website": "https://www.submagic.co",
+    "logo": ""
+  },
+  {
+    "name": "Steve AI",
+    "slug": "steve-ai",
+    "category": "Video",
+    "pricing": "Freemium",
+    "description": "AI video creation platform for making animated and live-action videos.",
+    "website": "https://www.steve.ai",
+    "logo": ""
+  },
+  {
+    "name": "Colossyan",
+    "slug": "colossyan",
+    "category": "Video",
+    "pricing": "Paid",
+    "description": "AI video platform for creating corporate training and learning videos with avatars.",
+    "website": "https://www.colossyan.com",
+    "logo": ""
+  },
+  {
+    "name": "Deepbrain AI",
+    "slug": "deepbrain-ai",
+    "category": "Video",
+    "pricing": "Paid",
+    "description": "AI video generator using photorealistic AI avatars for business content.",
+    "website": "https://www.deepbrain.io",
+    "logo": ""
+  },
+  {
+    "name": "Visla",
+    "slug": "visla",
+    "category": "Video",
+    "pricing": "Freemium",
+    "description": "AI video creation and editing platform for enterprise and personal use.",
+    "website": "https://www.visla.us",
+    "logo": ""
+  },
+  {
+    "name": "Suno AI",
+    "slug": "suno-ai",
+    "category": "Audio",
+    "pricing": "Freemium",
+    "description": "AI music generation platform that creates full songs with vocals from text prompts.",
+    "website": "https://suno.ai",
+    "logo": ""
+  },
+  {
+    "name": "Udio",
+    "slug": "udio",
+    "category": "Audio",
+    "pricing": "Freemium",
+    "description": "AI music creation tool for generating original songs and musical compositions.",
+    "website": "https://www.udio.com",
+    "logo": ""
+  },
+  {
+    "name": "Soundraw",
+    "slug": "soundraw",
+    "category": "Audio",
+    "pricing": "Freemium",
+    "description": "AI music generator that creates royalty-free music for videos and content.",
+    "website": "https://soundraw.io",
+    "logo": ""
+  },
+  {
+    "name": "Aiva",
+    "slug": "aiva",
+    "category": "Audio",
+    "pricing": "Freemium",
+    "description": "AI music composition tool for creating emotional soundtracks and scores.",
+    "website": "https://www.aiva.ai",
+    "logo": ""
+  },
+  {
+    "name": "Boomy",
+    "slug": "boomy",
+    "category": "Audio",
+    "pricing": "Freemium",
+    "description": "AI music creation app that lets anyone create and release original songs.",
+    "website": "https://boomy.com",
+    "logo": ""
+  },
+  {
+    "name": "Beatoven.ai",
+    "slug": "beatoven-ai",
+    "category": "Audio",
+    "pricing": "Freemium",
+    "description": "AI music generator that creates mood-based background music for videos.",
+    "website": "https://www.beatoven.ai",
+    "logo": ""
+  },
+  {
+    "name": "Loudme",
+    "slug": "loudme",
+    "category": "Audio",
+    "pricing": "Freemium",
+    "description": "AI-powered music generation for creators and content producers.",
+    "website": "https://loudme.ai",
+    "logo": ""
+  },
+  {
+    "name": "Podcastle",
+    "slug": "podcastle",
+    "category": "Audio",
+    "pricing": "Freemium",
+    "description": "AI podcast creation platform with recording, editing, and transcription tools.",
+    "website": "https://podcastle.ai",
+    "logo": ""
+  },
+  {
+    "name": "Adobe Podcast",
+    "slug": "adobe-podcast",
+    "category": "Audio",
+    "pricing": "Freemium",
+    "description": "AI-powered podcast recording and editing with automatic audio enhancement.",
+    "website": "https://podcast.adobe.com",
+    "logo": ""
+  },
+  {
+    "name": "Whisper",
+    "slug": "whisper",
+    "category": "Audio",
+    "pricing": "Free",
+    "description": "OpenAI's open-source automatic speech recognition system for transcription.",
+    "website": "https://openai.com/research/whisper",
+    "logo": ""
+  },
+  {
+    "name": "Speechify",
+    "slug": "speechify",
+    "category": "Audio",
+    "pricing": "Freemium",
+    "description": "AI text-to-speech reader that converts documents and web pages to audio.",
+    "website": "https://speechify.com",
+    "logo": ""
+  },
+  {
+    "name": "Play.ht",
+    "slug": "play-ht",
+    "category": "Audio",
+    "pricing": "Freemium",
+    "description": "AI voice generator with ultra-realistic text-to-speech and voice cloning.",
+    "website": "https://play.ht",
+    "logo": ""
+  },
+  {
+    "name": "Lovo.ai",
+    "slug": "lovo-ai",
+    "category": "Audio",
+    "pricing": "Freemium",
+    "description": "AI voice generator and text-to-speech studio with 500+ voices.",
+    "website": "https://lovo.ai",
+    "logo": ""
+  },
+  {
+    "name": "Voicemod",
+    "slug": "voicemod",
+    "category": "Audio",
+    "pricing": "Freemium",
+    "description": "AI voice changer for real-time voice effects in games and streaming.",
+    "website": "https://www.voicemod.net",
+    "logo": ""
+  },
+  {
+    "name": "Cleanvoice AI",
+    "slug": "cleanvoice-ai",
+    "category": "Audio",
+    "pricing": "Freemium",
+    "description": "AI tool that removes filler words, stutters, and silence from audio recordings.",
+    "website": "https://cleanvoice.ai",
+    "logo": ""
+  },
+  {
+    "name": "Deepgram",
+    "slug": "deepgram",
+    "category": "Audio",
+    "pricing": "Freemium",
+    "description": "AI speech-to-text API for real-time transcription and audio intelligence.",
+    "website": "https://deepgram.com",
+    "logo": ""
+  },
+  {
+    "name": "AssemblyAI",
+    "slug": "assemblyai",
+    "category": "Audio",
+    "pricing": "Freemium",
+    "description": "AI transcription and speech understanding API for developers.",
+    "website": "https://www.assemblyai.com",
+    "logo": ""
+  },
+  {
+    "name": "Bolt.new",
+    "slug": "bolt-new",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI-powered full-stack web development environment for building apps in the browser.",
+    "website": "https://bolt.new",
+    "logo": ""
+  },
+  {
+    "name": "Lovable",
+    "slug": "lovable",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI software engineer that builds full-stack web apps from text descriptions.",
+    "website": "https://lovable.dev",
+    "logo": ""
+  },
+  {
+    "name": "Windsurf",
+    "slug": "windsurf",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI-powered code editor by Codeium with agentic coding capabilities.",
+    "website": "https://codeium.com/windsurf",
+    "logo": ""
+  },
+  {
+    "name": "Amazon CodeWhisperer",
+    "slug": "amazon-codewhisperer",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI code generator by Amazon for writing code and detecting security vulnerabilities.",
+    "website": "https://aws.amazon.com/codewhisperer",
+    "logo": ""
+  },
+  {
+    "name": "Sourcegraph Cody",
+    "slug": "sourcegraph-cody",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI coding assistant with codebase context for accurate code suggestions.",
+    "website": "https://sourcegraph.com/cody",
+    "logo": ""
+  },
+  {
+    "name": "Phind",
+    "slug": "phind",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI-powered search engine designed specifically for developers and coding.",
+    "website": "https://www.phind.com",
+    "logo": ""
+  },
+  {
+    "name": "Continue",
+    "slug": "continue",
+    "category": "Development",
+    "pricing": "Free",
+    "description": "Open-source AI coding assistant that integrates with VS Code and JetBrains.",
+    "website": "https://continue.dev",
+    "logo": ""
+  },
+  {
+    "name": "Devin",
+    "slug": "devin",
+    "category": "Development",
+    "pricing": "Paid",
+    "description": "World's first AI software engineer that autonomously completes coding tasks.",
+    "website": "https://devin.ai",
+    "logo": ""
+  },
+  {
+    "name": "Magic.dev",
+    "slug": "magic-dev",
+    "category": "Development",
+    "pricing": "Paid",
+    "description": "AI software engineer for automating complex, long-horizon coding tasks.",
+    "website": "https://magic.dev",
+    "logo": ""
+  },
+  {
+    "name": "Sweep AI",
+    "slug": "sweep-ai",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI junior developer that fixes bugs and writes code from GitHub issues.",
+    "website": "https://sweep.dev",
+    "logo": ""
+  },
+  {
+    "name": "Pieces for Developers",
+    "slug": "pieces-for-developers",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI-powered developer productivity tool for saving and managing code snippets.",
+    "website": "https://pieces.app",
+    "logo": ""
+  },
+  {
+    "name": "Raycast AI",
+    "slug": "raycast-ai",
+    "category": "Development",
+    "pricing": "Paid",
+    "description": "AI-powered launcher for Mac with coding assistance and automation features.",
+    "website": "https://www.raycast.com",
+    "logo": ""
+  },
+  {
+    "name": "Grit.io",
+    "slug": "grit-io",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI tool for automating code migrations and dependency upgrades.",
+    "website": "https://www.grit.io",
+    "logo": ""
+  },
+  {
+    "name": "CodeRabbit",
+    "slug": "coderabbit",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI code review tool that provides instant, intelligent pull request feedback.",
+    "website": "https://coderabbit.ai",
+    "logo": ""
+  },
+  {
+    "name": "Snyk AI",
+    "slug": "snyk-ai",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI-powered security tool for finding and fixing vulnerabilities in code.",
+    "website": "https://snyk.io",
+    "logo": ""
+  },
+  {
+    "name": "Mintlify",
+    "slug": "mintlify",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI documentation writer that generates docs from your codebase automatically.",
+    "website": "https://mintlify.com",
+    "logo": ""
+  },
+  {
+    "name": "Stenography",
+    "slug": "stenography",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI tool that auto-documents code by explaining what it does in plain English.",
+    "website": "https://stenography.dev",
+    "logo": ""
+  },
+  {
+    "name": "Kite",
+    "slug": "kite",
+    "category": "Development",
+    "pricing": "Free",
+    "description": "AI coding assistant that provides Python code completions and documentation.",
+    "website": "https://www.kite.com",
+    "logo": ""
+  },
+  {
+    "name": "Mutable AI",
+    "slug": "mutable-ai",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI-accelerated software development with autocomplete and code generation.",
+    "website": "https://mutable.ai",
+    "logo": ""
+  },
+  {
+    "name": "Safurai",
+    "slug": "safurai",
+    "category": "Development",
+    "pricing": "Free",
+    "description": "Free AI code assistant for generating, refactoring, and explaining code.",
+    "website": "https://www.safurai.com",
+    "logo": ""
+  },
+  {
+    "name": "Whimsical AI",
+    "slug": "whimsical-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI-powered diagramming and flowchart tool for mapping ideas and workflows.",
+    "website": "https://whimsical.com",
+    "logo": ""
+  },
+  {
+    "name": "Miro AI",
+    "slug": "miro-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI features in Miro's online whiteboard for brainstorming and team collaboration.",
+    "website": "https://miro.com/ai",
+    "logo": ""
+  },
+  {
+    "name": "Taskade AI",
+    "slug": "taskade-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI-powered task management and collaboration platform with auto-generated workflows.",
+    "website": "https://www.taskade.com",
+    "logo": ""
+  },
+  {
+    "name": "Mem.ai",
+    "slug": "mem-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI-powered note-taking app that organizes and surfaces information automatically.",
+    "website": "https://mem.ai",
+    "logo": ""
+  },
+  {
+    "name": "Reflect",
+    "slug": "reflect",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "description": "AI-powered note-taking app with a networked structure and writing assistant.",
+    "website": "https://reflect.app",
+    "logo": ""
+  },
+  {
+    "name": "Rewind AI",
+    "slug": "rewind-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI personal assistant that records and searches everything on your computer.",
+    "website": "https://www.rewind.ai",
+    "logo": ""
+  },
+  {
+    "name": "Reclaim AI",
+    "slug": "reclaim-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI scheduling tool that automatically finds the best time for tasks and meetings.",
+    "website": "https://reclaim.ai",
+    "logo": ""
+  },
+  {
+    "name": "Motion",
+    "slug": "motion",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "description": "AI calendar and project manager that auto-schedules tasks based on priority.",
+    "website": "https://www.usemotion.com",
+    "logo": ""
+  },
+  {
+    "name": "Magical AI",
+    "slug": "magical-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI text expander and automation tool for repetitive writing tasks.",
+    "website": "https://www.getmagical.com",
+    "logo": ""
+  },
+  {
+    "name": "Superhuman",
+    "slug": "superhuman",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "description": "AI-powered email client designed to help you reach inbox zero faster.",
+    "website": "https://superhuman.com",
+    "logo": ""
+  },
+  {
+    "name": "SaneBox",
+    "slug": "sanebox",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "description": "AI email management tool that filters out unimportant messages automatically.",
+    "website": "https://www.sanebox.com",
+    "logo": ""
+  },
+  {
+    "name": "Hiver",
+    "slug": "hiver",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "description": "AI-powered email collaboration and helpdesk tool built inside Gmail.",
+    "website": "https://hiverhq.com",
+    "logo": ""
+  },
+  {
+    "name": "Bardeen AI",
+    "slug": "bardeen-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI automation tool that connects apps and automates repetitive browser tasks.",
+    "website": "https://www.bardeen.ai",
+    "logo": ""
+  },
+  {
+    "name": "Make",
+    "slug": "make",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "Visual AI-powered workflow automation platform for connecting apps and services.",
+    "website": "https://www.make.com",
+    "logo": ""
+  },
+  {
+    "name": "Zapier AI",
+    "slug": "zapier-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI-enhanced automation platform connecting 6000+ apps with intelligent workflows.",
+    "website": "https://zapier.com/ai",
+    "logo": ""
+  },
+  {
+    "name": "n8n",
+    "slug": "n8n",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "Open-source workflow automation tool with AI nodes for building agent workflows.",
+    "website": "https://n8n.io",
+    "logo": ""
+  },
+  {
+    "name": "Relevance AI",
+    "slug": "relevance-ai",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "No-code platform for building and deploying AI agents and tools.",
+    "website": "https://relevanceai.com",
+    "logo": ""
+  },
+  {
+    "name": "Flowise",
+    "slug": "flowise",
+    "category": "Development",
+    "pricing": "Free",
+    "description": "Open-source drag-and-drop tool for building customized LLM flows and chatbots.",
+    "website": "https://flowiseai.com",
+    "logo": ""
+  },
+  {
+    "name": "LangChain",
+    "slug": "langchain",
+    "category": "Development",
+    "pricing": "Free",
+    "description": "Open-source framework for developing applications powered by language models.",
+    "website": "https://langchain.com",
+    "logo": ""
+  },
+  {
+    "name": "LlamaIndex",
+    "slug": "llamaindex",
+    "category": "Development",
+    "pricing": "Free",
+    "description": "Data framework for building LLM-powered applications with custom data sources.",
+    "website": "https://www.llamaindex.ai",
+    "logo": ""
+  },
+  {
+    "name": "Cohere",
+    "slug": "cohere",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI platform providing NLP models and APIs for enterprise text processing.",
+    "website": "https://cohere.com",
+    "logo": ""
+  },
+  {
+    "name": "Mistral AI",
+    "slug": "mistral-ai",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "Open and efficient AI language models with API access for developers.",
+    "website": "https://mistral.ai",
+    "logo": ""
+  },
+  {
+    "name": "Together AI",
+    "slug": "together-ai",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "Cloud platform for running and fine-tuning open-source AI models.",
+    "website": "https://www.together.ai",
+    "logo": ""
+  },
+  {
+    "name": "Replicate",
+    "slug": "replicate",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "Platform for running AI models in the cloud via a simple API.",
+    "website": "https://replicate.com",
+    "logo": ""
+  },
+  {
+    "name": "Modal",
+    "slug": "modal",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "Cloud platform for running AI inference and training workloads at scale.",
+    "website": "https://modal.com",
+    "logo": ""
+  },
+  {
+    "name": "Groq",
+    "slug": "groq",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "Ultra-fast AI inference API for running LLMs at incredible speeds.",
+    "website": "https://groq.com",
+    "logo": ""
+  },
+  {
+    "name": "Ollama",
+    "slug": "ollama",
+    "category": "Development",
+    "pricing": "Free",
+    "description": "Tool for running large language models locally on your own machine.",
+    "website": "https://ollama.ai",
+    "logo": ""
+  },
+  {
+    "name": "Pinecone",
+    "slug": "pinecone",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "Managed vector database for building AI applications with semantic search.",
+    "website": "https://www.pinecone.io",
+    "logo": ""
+  },
+  {
+    "name": "Weaviate",
+    "slug": "weaviate",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "Open-source AI-native vector database for building semantic search and AI apps.",
+    "website": "https://weaviate.io",
+    "logo": ""
+  },
+  {
+    "name": "Chroma",
+    "slug": "chroma",
+    "category": "Development",
+    "pricing": "Free",
+    "description": "Open-source embedding database for AI applications and semantic search.",
+    "website": "https://www.trychroma.com",
+    "logo": ""
+  },
+  {
+    "name": "Weights & Biases",
+    "slug": "weights-biases",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "MLOps platform for tracking, visualizing, and optimizing machine learning experiments.",
+    "website": "https://wandb.ai",
+    "logo": ""
+  },
+  {
+    "name": "Scale AI",
+    "slug": "scale-ai",
+    "category": "Development",
+    "pricing": "Paid",
+    "description": "AI data platform for labeling, evaluating, and improving AI models.",
+    "website": "https://scale.com",
+    "logo": ""
+  },
+  {
+    "name": "Labelbox",
+    "slug": "labelbox",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI training data platform for labeling and managing datasets.",
+    "website": "https://labelbox.com",
+    "logo": ""
+  },
+  {
+    "name": "Roboflow",
+    "slug": "roboflow",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "Computer vision platform for building and deploying image recognition models.",
+    "website": "https://roboflow.com",
+    "logo": ""
+  },
+  {
+    "name": "Bright Data AI",
+    "slug": "bright-data-ai",
+    "category": "Development",
+    "pricing": "Paid",
+    "description": "AI-powered web scraping and data collection platform for AI training data.",
+    "website": "https://brightdata.com",
+    "logo": ""
+  },
+  {
+    "name": "Vellum AI",
+    "slug": "vellum-ai",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "LLM development platform for building, testing, and deploying AI workflows.",
+    "website": "https://www.vellum.ai",
+    "logo": ""
+  },
+  {
+    "name": "PromptLayer",
+    "slug": "promptlayer",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "Prompt engineering platform for tracking, managing, and evaluating LLM prompts.",
+    "website": "https://promptlayer.com",
+    "logo": ""
+  },
+  {
+    "name": "Helicone",
+    "slug": "helicone",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "Open-source LLM observability platform for monitoring AI app usage and costs.",
+    "website": "https://www.helicone.ai",
+    "logo": ""
+  },
+  {
+    "name": "Brainlid Langchain",
+    "slug": "brainlid-langchain",
+    "category": "Development",
+    "pricing": "Free",
+    "description": "Open-source elixir implementation of LangChain for building LLM applications.",
+    "website": "https://github.com/brainlid/langchain",
+    "logo": ""
+  },
+  {
+    "name": "Typeface",
+    "slug": "typeface",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI content platform for enterprises to create on-brand marketing content at scale.",
+    "website": "https://www.typeface.ai",
+    "logo": ""
+  },
+  {
+    "name": "Persado",
+    "slug": "persado",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI platform that generates optimal marketing language to drive engagement.",
+    "website": "https://www.persado.com",
+    "logo": ""
+  },
+  {
+    "name": "Phrasee",
+    "slug": "phrasee",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI-powered brand language optimization for email, social, and push marketing.",
+    "website": "https://phrasee.co",
+    "logo": ""
+  },
+  {
+    "name": "Albert AI",
+    "slug": "albert-ai",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "Autonomous AI marketing platform that plans and executes digital ad campaigns.",
+    "website": "https://www.albert.ai",
+    "logo": ""
+  },
+  {
+    "name": "Smartly.io",
+    "slug": "smartly-io",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI-powered social advertising automation platform for performance marketers.",
+    "website": "https://www.smartly.io",
+    "logo": ""
+  },
+  {
+    "name": "Seventh Sense",
+    "slug": "seventh-sense",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI email optimization tool that personalizes send times for each subscriber.",
+    "website": "https://www.theseventhsense.com",
+    "logo": ""
+  },
+  {
+    "name": "Customers.ai",
+    "slug": "customers-ai",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI marketing platform for identifying anonymous website visitors and automating outreach.",
+    "website": "https://customers.ai",
+    "logo": ""
+  },
+  {
+    "name": "Zeta Global",
+    "slug": "zeta-global",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI-powered marketing cloud for personalized customer engagement.",
+    "website": "https://zetaglobal.com",
+    "logo": ""
+  },
+  {
+    "name": "Drift",
+    "slug": "drift",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI-powered conversational marketing platform with chatbots for lead generation.",
+    "website": "https://www.drift.com",
+    "logo": ""
+  },
+  {
+    "name": "Intercom AI",
+    "slug": "intercom-ai",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI customer service platform with Fin AI agent for automated support.",
+    "website": "https://www.intercom.com/ai",
+    "logo": ""
+  },
+  {
+    "name": "Tidio AI",
+    "slug": "tidio-ai",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI chatbot platform for customer service and sales automation.",
+    "website": "https://www.tidio.com",
+    "logo": ""
+  },
+  {
+    "name": "ManyChat",
+    "slug": "manychat",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI-powered chat marketing platform for Instagram, WhatsApp, and Messenger.",
+    "website": "https://manychat.com",
+    "logo": ""
+  },
+  {
+    "name": "Chatfuel",
+    "slug": "chatfuel",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "No-code AI chatbot builder for Facebook, Instagram, and WhatsApp marketing.",
+    "website": "https://chatfuel.com",
+    "logo": ""
+  },
+  {
+    "name": "Semrush AI",
+    "slug": "semrush-ai",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI-enhanced SEO and content marketing platform for digital marketers.",
+    "website": "https://www.semrush.com",
+    "logo": ""
+  },
+  {
+    "name": "Clearscope",
+    "slug": "clearscope",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI content optimization platform for improving SEO performance of articles.",
+    "website": "https://www.clearscope.io",
+    "logo": ""
+  },
+  {
+    "name": "MarketMuse",
+    "slug": "marketmuse",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI content intelligence platform for planning and optimizing content strategy.",
+    "website": "https://www.marketmuse.com",
+    "logo": ""
+  },
+  {
+    "name": "Anyword",
+    "slug": "anyword",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI copywriting tool that predicts and optimizes content performance.",
+    "website": "https://anyword.com",
+    "logo": ""
+  },
+  {
+    "name": "Pencil",
+    "slug": "pencil",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI ad creative generator that predicts winning ad concepts for brands.",
+    "website": "https://www.trypencil.com",
+    "logo": ""
+  },
+  {
+    "name": "Omneky",
+    "slug": "omneky",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI advertising platform that generates personalized ad creatives at scale.",
+    "website": "https://www.omneky.com",
+    "logo": ""
+  },
+  {
+    "name": "Luna AI",
+    "slug": "luna-ai",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI-powered cold email platform for generating and sending personalized outreach.",
+    "website": "https://luna.ai",
+    "logo": ""
+  },
+  {
+    "name": "Reply.io",
+    "slug": "reply-io",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI sales engagement platform for automating outreach and follow-up sequences.",
+    "website": "https://reply.io",
+    "logo": ""
+  },
+  {
+    "name": "Instantly AI",
+    "slug": "instantly-ai",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI email outreach platform for scaling cold email campaigns with personalization.",
+    "website": "https://instantly.ai",
+    "logo": ""
+  },
+  {
+    "name": "Smartwriter AI",
+    "slug": "smartwriter-ai",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI tool that generates hyper-personalized cold emails and LinkedIn messages.",
+    "website": "https://www.smartwriter.ai",
+    "logo": ""
+  },
+  {
+    "name": "Regie AI",
+    "slug": "regie-ai",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI sales content platform for generating personalized sales sequences.",
+    "website": "https://www.regie.ai",
+    "logo": ""
+  },
+  {
+    "name": "Exceed.ai",
+    "slug": "exceed-ai",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI conversational marketing platform that automates lead qualification.",
+    "website": "https://exceed.ai",
+    "logo": ""
+  },
+  {
+    "name": "Predis.ai",
+    "slug": "predis-ai",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI social media content generator for posts, reels, and ad creatives.",
+    "website": "https://predis.ai",
+    "logo": ""
+  },
+  {
+    "name": "Ocoya",
+    "slug": "ocoya",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI social media management tool for scheduling, creating, and analyzing content.",
+    "website": "https://www.ocoya.com",
+    "logo": ""
+  },
+  {
+    "name": "Flick AI",
+    "slug": "flick-ai",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI social media assistant for caption writing, hashtag research, and scheduling.",
+    "website": "https://www.flick.social",
+    "logo": ""
+  },
+  {
+    "name": "ContentStudio AI",
+    "slug": "contentstudio-ai",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI content creation and social media management platform for agencies.",
+    "website": "https://contentstudio.io",
+    "logo": ""
+  },
+  {
+    "name": "Publer AI",
+    "slug": "publer-ai",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI social media scheduling tool with content generation capabilities.",
+    "website": "https://publer.io",
+    "logo": ""
+  },
+  {
+    "name": "ProWritingAid",
+    "slug": "prowritingaid",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "description": "AI writing editor for improving style, grammar, and readability of long-form content.",
+    "website": "https://prowritingaid.com",
+    "logo": ""
+  },
+  {
+    "name": "Hemingway Editor",
+    "slug": "hemingway-editor",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "description": "AI writing tool that highlights complex sentences and suggests simpler alternatives.",
+    "website": "https://hemingwayapp.com",
+    "logo": ""
+  },
+  {
+    "name": "Longshot AI",
+    "slug": "longshot-ai",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "description": "AI writing assistant specialized in generating factually accurate long-form content.",
+    "website": "https://www.longshot.ai",
+    "logo": ""
+  },
+  {
+    "name": "Rytr",
+    "slug": "rytr",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "description": "AI writing assistant for generating content in 40+ use cases and languages.",
+    "website": "https://rytr.me",
+    "logo": ""
+  },
+  {
+    "name": "Scalenut",
+    "slug": "scalenut",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "description": "AI-powered content research and writing platform for SEO-optimized articles.",
+    "website": "https://www.scalenut.com",
+    "logo": ""
+  },
+  {
+    "name": "ContentBot AI",
+    "slug": "contentbot-ai",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "description": "AI content writer for generating blog posts, landing pages, and marketing copy.",
+    "website": "https://contentbot.ai",
+    "logo": ""
+  },
+  {
+    "name": "AI Writer",
+    "slug": "ai-writer",
+    "category": "Writing",
+    "pricing": "Paid",
+    "description": "AI text generator for producing accurate, SEO-friendly articles with citations.",
+    "website": "https://ai-writer.com",
+    "logo": ""
+  },
+  {
+    "name": "Wordai",
+    "slug": "wordai",
+    "category": "Writing",
+    "pricing": "Paid",
+    "description": "AI article spinner and rewriter for creating unique content variations.",
+    "website": "https://wordai.com",
+    "logo": ""
+  },
+  {
+    "name": "Article Forge",
+    "slug": "article-forge",
+    "category": "Writing",
+    "pricing": "Paid",
+    "description": "AI content generator that automatically writes full-length, unique articles.",
+    "website": "https://www.articleforge.com",
+    "logo": ""
+  },
+  {
+    "name": "Ink Editor",
+    "slug": "ink-editor",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "description": "AI writing assistant with SEO optimization features and content scoring.",
+    "website": "https://inkforall.com",
+    "logo": ""
+  },
+  {
+    "name": "Narrato",
+    "slug": "narrato",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "description": "AI content creation platform with writing, workflow, and publishing tools.",
+    "website": "https://narrato.io",
+    "logo": ""
+  },
+  {
+    "name": "TextCortex",
+    "slug": "textcortex",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "description": "AI writing assistant with a custom AI persona for consistent brand voice.",
+    "website": "https://textcortex.com",
+    "logo": ""
+  },
+  {
+    "name": "Hypotenuse AI",
+    "slug": "hypotenuse-ai",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "description": "AI content writer specialized in ecommerce product descriptions and articles.",
+    "website": "https://www.hypotenuse.ai",
+    "logo": ""
+  },
+  {
+    "name": "GrowthBar",
+    "slug": "growthbar",
+    "category": "Writing",
+    "pricing": "Paid",
+    "description": "AI blog writing tool with SEO research and optimization features.",
+    "website": "https://www.growthbarseo.com",
+    "logo": ""
+  },
+  {
+    "name": "Peppertype AI",
+    "slug": "peppertype-ai",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "description": "AI content generation tool for creating marketing copy and social media content.",
+    "website": "https://www.peppertype.ai",
+    "logo": ""
+  },
+  {
+    "name": "Shortly AI",
+    "slug": "shortly-ai",
+    "category": "Writing",
+    "pricing": "Paid",
+    "description": "AI writing assistant for fiction and creative writing with story expansion.",
+    "website": "https://shortlyai.com",
+    "logo": ""
+  },
+  {
+    "name": "Sudowrite",
+    "slug": "sudowrite",
+    "category": "Writing",
+    "pricing": "Paid",
+    "description": "AI writing partner for fiction authors to brainstorm and expand creative stories.",
+    "website": "https://www.sudowrite.com",
+    "logo": ""
+  },
+  {
+    "name": "Novel AI",
+    "slug": "novel-ai",
+    "category": "Writing",
+    "pricing": "Paid",
+    "description": "AI storytelling platform for writing fiction and creating unique narratives.",
+    "website": "https://novelai.net",
+    "logo": ""
+  },
+  {
+    "name": "Sassbook AI",
+    "slug": "sassbook-ai",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "description": "AI text summarizer and story writer for content creators and publishers.",
+    "website": "https://sassbook.com",
+    "logo": ""
+  },
+  {
+    "name": "Kuki Chatbot",
+    "slug": "kuki-chatbot",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "Award-winning AI chatbot for engaging customer conversations.",
+    "website": "https://www.kuki.ai",
+    "logo": ""
+  },
+  {
+    "name": "Replika",
+    "slug": "replika",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI companion chatbot for emotional support and personal conversations.",
+    "website": "https://replika.com",
+    "logo": ""
+  },
+  {
+    "name": "Pi AI",
+    "slug": "pi-ai",
+    "category": "Productivity",
+    "pricing": "Free",
+    "description": "Personal AI assistant by Inflection AI for supportive and informative conversations.",
+    "website": "https://pi.ai",
+    "logo": ""
+  },
+  {
+    "name": "Meta AI",
+    "slug": "meta-ai",
+    "category": "Productivity",
+    "pricing": "Free",
+    "description": "Meta's AI assistant integrated into WhatsApp, Instagram, and Facebook.",
+    "website": "https://ai.meta.com",
+    "logo": ""
+  },
+  {
+    "name": "Grok",
+    "slug": "grok",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "xAI's conversational AI assistant with real-time information access.",
+    "website": "https://grok.x.ai",
+    "logo": ""
+  },
+  {
+    "name": "Mixtral",
+    "slug": "mixtral",
+    "category": "Development",
+    "pricing": "Free",
+    "description": "Open-source mixture-of-experts language model from Mistral AI.",
+    "website": "https://mistral.ai/news/mixtral-of-experts",
+    "logo": ""
+  },
+  {
+    "name": "Llama 3",
+    "slug": "llama-3",
+    "category": "Development",
+    "pricing": "Free",
+    "description": "Meta's open-source large language model for research and commercial use.",
+    "website": "https://llama.meta.com",
+    "logo": ""
+  },
+  {
+    "name": "Falcon LLM",
+    "slug": "falcon-llm",
+    "category": "Development",
+    "pricing": "Free",
+    "description": "Open-source large language model by Technology Innovation Institute.",
+    "website": "https://falconllm.tii.ae",
+    "logo": ""
+  },
+  {
+    "name": "Vicuna",
+    "slug": "vicuna",
+    "category": "Development",
+    "pricing": "Free",
+    "description": "Open-source chatbot trained by fine-tuning LLaMA on user-shared conversations.",
+    "website": "https://lmsys.org/blog/2023-03-30-vicuna",
+    "logo": ""
+  },
+  {
+    "name": "Alpaca",
+    "slug": "alpaca",
+    "category": "Development",
+    "pricing": "Free",
+    "description": "Stanford's instruction-following LLaMA model for academic research.",
+    "website": "https://crfm.stanford.edu/2023/03/13/alpaca.html",
+    "logo": ""
+  },
+  {
+    "name": "Elicit",
+    "slug": "elicit",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI research assistant for summarizing and synthesizing scientific papers.",
+    "website": "https://elicit.com",
+    "logo": ""
+  },
+  {
+    "name": "Consensus",
+    "slug": "consensus",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI search engine for finding and understanding scientific research.",
+    "website": "https://consensus.app",
+    "logo": ""
+  },
+  {
+    "name": "Semantic Scholar",
+    "slug": "semantic-scholar",
+    "category": "Productivity",
+    "pricing": "Free",
+    "description": "AI-powered academic search engine for finding relevant scientific literature.",
+    "website": "https://www.semanticscholar.org",
+    "logo": ""
+  },
+  {
+    "name": "Scite AI",
+    "slug": "scite-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI platform that analyzes how research papers cite and support each other.",
+    "website": "https://scite.ai",
+    "logo": ""
+  },
+  {
+    "name": "ResearchRabbit",
+    "slug": "researchrabbit",
+    "category": "Productivity",
+    "pricing": "Free",
+    "description": "AI-powered research discovery tool that maps academic literature networks.",
+    "website": "https://www.researchrabbit.ai",
+    "logo": ""
+  },
+  {
+    "name": "Iris.ai",
+    "slug": "iris-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI research assistant for finding and analyzing scientific and technical papers.",
+    "website": "https://iris.ai",
+    "logo": ""
+  },
+  {
+    "name": "PaperBrain",
+    "slug": "paperbrain",
+    "category": "Productivity",
+    "pricing": "Free",
+    "description": "AI tool for reading and understanding complex research papers.",
+    "website": "https://www.paperbrain.study",
+    "logo": ""
+  },
+  {
+    "name": "SciSpace",
+    "slug": "scispace",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI research platform for discovering, reading, and understanding papers.",
+    "website": "https://typeset.io",
+    "logo": ""
+  },
+  {
+    "name": "Scholarcy",
+    "slug": "scholarcy",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI tool that summarizes research papers and extracts key findings.",
+    "website": "https://www.scholarcy.com",
+    "logo": ""
+  },
+  {
+    "name": "Explainpaper",
+    "slug": "explainpaper",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI tool that helps you understand complex research papers by explaining sections.",
+    "website": "https://www.explainpaper.com",
+    "logo": ""
+  },
+  {
+    "name": "Lex",
+    "slug": "lex",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "description": "AI-powered word processor with built-in writing assistance and brainstorming.",
+    "website": "https://lex.page",
+    "logo": ""
+  },
+  {
+    "name": "Ink",
+    "slug": "ink",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "description": "AI-powered content performance tool that optimizes writing for search engines.",
+    "website": "https://inkforall.com",
+    "logo": ""
+  },
+  {
+    "name": "Beehiiv AI",
+    "slug": "beehiiv-ai",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "description": "AI writing and publishing tools built into the Beehiiv newsletter platform.",
+    "website": "https://www.beehiiv.com",
+    "logo": ""
+  },
+  {
+    "name": "Substack AI",
+    "slug": "substack-ai",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "description": "AI writing features integrated into Substack for newsletter creators.",
+    "website": "https://substack.com",
+    "logo": ""
+  },
+  {
+    "name": "Ghost AI",
+    "slug": "ghost-ai",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "description": "AI writing features in Ghost CMS for content creators and bloggers.",
+    "website": "https://ghost.org",
+    "logo": ""
+  },
+  {
+    "name": "Undetectable AI",
+    "slug": "undetectable-ai",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "description": "AI humanizer tool that rewrites AI text to bypass detection tools.",
+    "website": "https://undetectable.ai",
+    "logo": ""
+  },
+  {
+    "name": "GPTZero",
+    "slug": "gptzero",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "description": "AI detection tool for identifying AI-generated content in writing.",
+    "website": "https://gptzero.me",
+    "logo": ""
+  },
+  {
+    "name": "Originality AI",
+    "slug": "originality-ai",
+    "category": "Writing",
+    "pricing": "Paid",
+    "description": "AI content detection and plagiarism checker for publishers and SEOs.",
+    "website": "https://originality.ai",
+    "logo": ""
+  },
+  {
+    "name": "Winston AI",
+    "slug": "winston-ai",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "description": "AI content detector for identifying AI-written text in academic and professional work.",
+    "website": "https://gowinston.ai",
+    "logo": ""
+  },
+  {
+    "name": "Turnitin AI",
+    "slug": "turnitin-ai",
+    "category": "Writing",
+    "pricing": "Paid",
+    "description": "Academic AI detection tool integrated into Turnitin's plagiarism checker.",
+    "website": "https://www.turnitin.com",
+    "logo": ""
+  },
+  {
+    "name": "Khanmigo",
+    "slug": "khanmigo",
+    "category": "Education",
+    "pricing": "Freemium",
+    "description": "Khan Academy's AI tutor and teaching assistant for personalized learning.",
+    "website": "https://www.khanacademy.org/khan-labs",
+    "logo": ""
+  },
+  {
+    "name": "Duolingo Max",
+    "slug": "duolingo-max",
+    "category": "Education",
+    "pricing": "Paid",
+    "description": "AI-powered language learning features in Duolingo for immersive practice.",
+    "website": "https://www.duolingo.com/max",
+    "logo": ""
+  },
+  {
+    "name": "Synthesis AI",
+    "slug": "synthesis-ai",
+    "category": "Education",
+    "pricing": "Paid",
+    "description": "AI learning platform for math and problem-solving for children.",
+    "website": "https://www.synthesis.com",
+    "logo": ""
+  },
+  {
+    "name": "Socratic by Google",
+    "slug": "socratic-by-google",
+    "category": "Education",
+    "pricing": "Free",
+    "description": "AI homework helper app that uses visual search to explain academic concepts.",
+    "website": "https://socratic.org",
+    "logo": ""
+  },
+  {
+    "name": "Photomath",
+    "slug": "photomath",
+    "category": "Education",
+    "pricing": "Freemium",
+    "description": "AI math solver app that scans handwritten or printed math problems.",
+    "website": "https://photomath.com",
+    "logo": ""
+  },
+  {
+    "name": "Wolfram Alpha",
+    "slug": "wolfram-alpha",
+    "category": "Education",
+    "pricing": "Freemium",
+    "description": "AI computational knowledge engine for answering factual and mathematical queries.",
+    "website": "https://www.wolframalpha.com",
+    "logo": ""
+  },
+  {
+    "name": "Quizlet AI",
+    "slug": "quizlet-ai",
+    "category": "Education",
+    "pricing": "Freemium",
+    "description": "AI-powered study tool for generating flashcards and practice tests.",
+    "website": "https://quizlet.com",
+    "logo": ""
+  },
+  {
+    "name": "Cram AI",
+    "slug": "cram-ai",
+    "category": "Education",
+    "pricing": "Freemium",
+    "description": "AI flashcard and study assistant for efficient learning and exam preparation.",
+    "website": "https://www.cram.com",
+    "logo": ""
+  },
+  {
+    "name": "Numerade",
+    "slug": "numerade",
+    "category": "Education",
+    "pricing": "Freemium",
+    "description": "AI STEM learning platform with video solutions to textbook problems.",
+    "website": "https://www.numerade.com",
+    "logo": ""
+  },
+  {
+    "name": "Coursera AI",
+    "slug": "coursera-ai",
+    "category": "Education",
+    "pricing": "Freemium",
+    "description": "AI-powered learning assistant integrated into Coursera courses.",
+    "website": "https://www.coursera.org",
+    "logo": ""
+  },
+  {
+    "name": "Edpuzzle AI",
+    "slug": "edpuzzle-ai",
+    "category": "Education",
+    "pricing": "Freemium",
+    "description": "AI video-based learning platform with auto-generated questions for educators.",
+    "website": "https://edpuzzle.com",
+    "logo": ""
+  },
+  {
+    "name": "Fetchy",
+    "slug": "fetchy",
+    "category": "Education",
+    "pricing": "Freemium",
+    "description": "AI assistant designed specifically for teachers to create lesson materials.",
+    "website": "https://www.fetchy.com",
+    "logo": ""
+  },
+  {
+    "name": "Curipod",
+    "slug": "curipod",
+    "category": "Education",
+    "pricing": "Freemium",
+    "description": "AI lesson planning tool that creates interactive presentations for teachers.",
+    "website": "https://curipod.com",
+    "logo": ""
+  },
+  {
+    "name": "Diffit",
+    "slug": "diffit",
+    "category": "Education",
+    "pricing": "Freemium",
+    "description": "AI tool for teachers that differentiates instructional content for all learners.",
+    "website": "https://web.diffit.me",
+    "logo": ""
+  },
+  {
+    "name": "MagicSchool AI",
+    "slug": "magicschool-ai",
+    "category": "Education",
+    "pricing": "Freemium",
+    "description": "AI platform for teachers with 60+ tools for lesson planning and grading.",
+    "website": "https://www.magicschool.ai",
+    "logo": ""
+  },
+  {
+    "name": "Copyleaks",
+    "slug": "copyleaks",
+    "category": "Education",
+    "pricing": "Freemium",
+    "description": "AI plagiarism detection and content authentication platform for education.",
+    "website": "https://copyleaks.com",
+    "logo": ""
+  },
+  {
+    "name": "Gradescope",
+    "slug": "gradescope",
+    "category": "Education",
+    "pricing": "Freemium",
+    "description": "AI-assisted grading platform for streamlining assignment and exam assessment.",
+    "website": "https://www.gradescope.com",
+    "logo": ""
+  },
+  {
+    "name": "Doctrina AI",
+    "slug": "doctrina-ai",
+    "category": "Education",
+    "pricing": "Freemium",
+    "description": "AI education suite for generating notes, essays, and quizzes from documents.",
+    "website": "https://www.doctrina.ai",
+    "logo": ""
+  },
+  {
+    "name": "Knowji",
+    "slug": "knowji",
+    "category": "Education",
+    "pricing": "Freemium",
+    "description": "AI-powered vocabulary learning app with adaptive spacing for retention.",
+    "website": "https://www.knowji.com",
+    "logo": ""
+  },
+  {
+    "name": "Speak AI",
+    "slug": "speak-ai",
+    "category": "Education",
+    "pricing": "Freemium",
+    "description": "AI language tutor for practicing speaking and conversation in a new language.",
+    "website": "https://speakai.co",
+    "logo": ""
+  },
+  {
+    "name": "Elsa Speak",
+    "slug": "elsa-speak",
+    "category": "Education",
+    "pricing": "Freemium",
+    "description": "AI English pronunciation coach that provides real-time accent training.",
+    "website": "https://elsaspeak.com",
+    "logo": ""
+  },
+  {
+    "name": "Klarity",
+    "slug": "klarity",
+    "category": "Legal",
+    "pricing": "Paid",
+    "description": "AI contract review and analysis tool for accelerating legal document review.",
+    "website": "https://www.klaritylegal.com",
+    "logo": ""
+  },
+  {
+    "name": "Casetext",
+    "slug": "casetext",
+    "category": "Legal",
+    "pricing": "Paid",
+    "description": "AI legal research assistant for finding and analyzing case law and statutes.",
+    "website": "https://casetext.com",
+    "logo": ""
+  },
+  {
+    "name": "Harvey AI",
+    "slug": "harvey-ai",
+    "category": "Legal",
+    "pricing": "Paid",
+    "description": "AI legal assistant for law firms to research, draft, and review legal documents.",
+    "website": "https://www.harvey.ai",
+    "logo": ""
+  },
+  {
+    "name": "DoNotPay",
+    "slug": "donotpay",
+    "category": "Legal",
+    "pricing": "Paid",
+    "description": "AI consumer rights and legal assistant for fighting corporations and bureaucracy.",
+    "website": "https://donotpay.com",
+    "logo": ""
+  },
+  {
+    "name": "Lexis+ AI",
+    "slug": "lexis-plus-ai",
+    "category": "Legal",
+    "pricing": "Paid",
+    "description": "AI-powered legal research tool by LexisNexis for law professionals.",
+    "website": "https://www.lexisnexis.com",
+    "logo": ""
+  },
+  {
+    "name": "Westlaw AI",
+    "slug": "westlaw-ai",
+    "category": "Legal",
+    "pricing": "Paid",
+    "description": "AI-assisted legal research integrated into Thomson Reuters' Westlaw platform.",
+    "website": "https://legal.thomsonreuters.com/en/products/westlaw",
+    "logo": ""
+  },
+  {
+    "name": "Luminance",
+    "slug": "luminance",
+    "category": "Legal",
+    "pricing": "Paid",
+    "description": "AI legal document platform for contract analysis and due diligence.",
+    "website": "https://www.luminance.com",
+    "logo": ""
+  },
+  {
+    "name": "Ironclad AI",
+    "slug": "ironclad-ai",
+    "category": "Legal",
+    "pricing": "Paid",
+    "description": "AI contract lifecycle management platform for legal and business teams.",
+    "website": "https://ironcladapp.com",
+    "logo": ""
+  },
+  {
+    "name": "Spellbook",
+    "slug": "spellbook",
+    "category": "Legal",
+    "pricing": "Paid",
+    "description": "AI contract drafting tool built directly into Microsoft Word for lawyers.",
+    "website": "https://www.spellbook.legal",
+    "logo": ""
+  },
+  {
+    "name": "Leya",
+    "slug": "leya",
+    "category": "Legal",
+    "pricing": "Paid",
+    "description": "AI assistant for legal professionals to research and draft documents faster.",
+    "website": "https://leya.law",
+    "logo": ""
+  },
+  {
+    "name": "Sympto Health",
+    "slug": "sympto-health",
+    "category": "Healthcare",
+    "pricing": "Paid",
+    "description": "AI-powered patient engagement platform for clinical workflows.",
+    "website": "https://sympto.com",
+    "logo": ""
+  },
+  {
+    "name": "Babylon Health",
+    "slug": "babylon-health",
+    "category": "Healthcare",
+    "pricing": "Freemium",
+    "description": "AI health service platform offering symptom checking and digital consultations.",
+    "website": "https://www.babylonhealth.com",
+    "logo": ""
+  },
+  {
+    "name": "Ada Health",
+    "slug": "ada-health",
+    "category": "Healthcare",
+    "pricing": "Free",
+    "description": "AI symptom assessment app that helps users understand their health conditions.",
+    "website": "https://ada.com",
+    "logo": ""
+  },
+  {
+    "name": "Buoy Health",
+    "slug": "buoy-health",
+    "category": "Healthcare",
+    "pricing": "Free",
+    "description": "AI health chatbot that guides users to the right care based on symptoms.",
+    "website": "https://www.buoyhealth.com",
+    "logo": ""
+  },
+  {
+    "name": "Infermedica",
+    "slug": "infermedica",
+    "category": "Healthcare",
+    "pricing": "Paid",
+    "description": "AI medical guidance platform for symptom checking and patient triage.",
+    "website": "https://infermedica.com",
+    "logo": ""
+  },
+  {
+    "name": "Aidoc",
+    "slug": "aidoc",
+    "category": "Healthcare",
+    "pricing": "Paid",
+    "description": "AI radiology platform that flags critical findings for radiologists.",
+    "website": "https://www.aidoc.com",
+    "logo": ""
+  },
+  {
+    "name": "Viz.ai",
+    "slug": "viz-ai",
+    "category": "Healthcare",
+    "pricing": "Paid",
+    "description": "AI-powered care coordination platform that detects diseases in medical imaging.",
+    "website": "https://www.viz.ai",
+    "logo": ""
+  },
+  {
+    "name": "Tempus AI",
+    "slug": "tempus-ai",
+    "category": "Healthcare",
+    "pricing": "Paid",
+    "description": "AI precision medicine company analyzing clinical and molecular data for oncology.",
+    "website": "https://www.tempus.com",
+    "logo": ""
+  },
+  {
+    "name": "PathAI",
+    "slug": "pathai",
+    "category": "Healthcare",
+    "pricing": "Paid",
+    "description": "AI-powered pathology platform for improving diagnostic accuracy.",
+    "website": "https://www.pathai.com",
+    "logo": ""
+  },
+  {
+    "name": "Nuance DAX",
+    "slug": "nuance-dax",
+    "category": "Healthcare",
+    "pricing": "Paid",
+    "description": "AI ambient clinical intelligence for automatic medical documentation.",
+    "website": "https://www.nuance.com/healthcare/ambient-clinical-intelligence",
+    "logo": ""
+  },
+  {
+    "name": "Suki AI",
+    "slug": "suki-ai",
+    "category": "Healthcare",
+    "pricing": "Paid",
+    "description": "AI voice assistant for doctors to automate medical note-taking.",
+    "website": "https://www.suki.ai",
+    "logo": ""
+  },
+  {
+    "name": "Mendel AI",
+    "slug": "mendel-ai",
+    "category": "Healthcare",
+    "pricing": "Paid",
+    "description": "AI clinical intelligence platform for extracting insights from medical records.",
+    "website": "https://www.mendel.ai",
+    "logo": ""
+  },
+  {
+    "name": "Insilico Medicine",
+    "slug": "insilico-medicine",
+    "category": "Healthcare",
+    "pricing": "Paid",
+    "description": "AI drug discovery platform using generative AI to design new medicines.",
+    "website": "https://insilico.com",
+    "logo": ""
+  },
+  {
+    "name": "BenevolentAI",
+    "slug": "benevolentai",
+    "category": "Healthcare",
+    "pricing": "Paid",
+    "description": "AI drug discovery company using machine learning to develop new treatments.",
+    "website": "https://www.benevolent.com",
+    "logo": ""
+  },
+  {
+    "name": "Recursion",
+    "slug": "recursion",
+    "category": "Healthcare",
+    "pricing": "Paid",
+    "description": "AI biotech company using machine learning for drug discovery.",
+    "website": "https://www.recursion.com",
+    "logo": ""
+  },
+  {
+    "name": "AlphaFold",
+    "slug": "alphafold",
+    "category": "Healthcare",
+    "pricing": "Free",
+    "description": "DeepMind's AI system for predicting protein structure from amino acid sequences.",
+    "website": "https://alphafold.ebi.ac.uk",
+    "logo": ""
+  },
+  {
+    "name": "Woebot",
+    "slug": "woebot",
+    "category": "Healthcare",
+    "pricing": "Freemium",
+    "description": "AI mental health chatbot that uses cognitive behavioral therapy techniques.",
+    "website": "https://woebothealth.com",
+    "logo": ""
+  },
+  {
+    "name": "Wysa",
+    "slug": "wysa",
+    "category": "Healthcare",
+    "pricing": "Freemium",
+    "description": "AI mental health app offering anonymous emotional support and therapy tools.",
+    "website": "https://www.wysa.com",
+    "logo": ""
+  },
+  {
+    "name": "Youper",
+    "slug": "youper",
+    "category": "Healthcare",
+    "pricing": "Freemium",
+    "description": "AI emotional health assistant using CBT and mindfulness for mental wellness.",
+    "website": "https://www.youper.ai",
+    "logo": ""
+  },
+  {
+    "name": "Brightside Health",
+    "slug": "brightside-health",
+    "category": "Healthcare",
+    "pricing": "Paid",
+    "description": "AI-enhanced mental health platform for anxiety and depression treatment.",
+    "website": "https://www.brightside.com",
+    "logo": ""
+  },
+  {
+    "name": "Headspace AI",
+    "slug": "headspace-ai",
+    "category": "Healthcare",
+    "pricing": "Freemium",
+    "description": "AI mindfulness and meditation app with personalized content recommendations.",
+    "website": "https://www.headspace.com",
+    "logo": ""
+  },
+  {
+    "name": "Zing Coach",
+    "slug": "zing-coach",
+    "category": "Healthcare",
+    "pricing": "Freemium",
+    "description": "AI fitness coach that creates personalized workout plans using computer vision.",
+    "website": "https://zingcoach.com",
+    "logo": ""
+  },
+  {
+    "name": "Freeletics",
+    "slug": "freeletics",
+    "category": "Healthcare",
+    "pricing": "Freemium",
+    "description": "AI personal fitness coach app that adapts workouts to your performance.",
+    "website": "https://www.freeletics.com",
+    "logo": ""
+  },
+  {
+    "name": "Noom",
+    "slug": "noom",
+    "category": "Healthcare",
+    "pricing": "Paid",
+    "description": "AI-powered weight loss and wellness program combining psychology and coaching.",
+    "website": "https://www.noom.com",
+    "logo": ""
+  },
+  {
+    "name": "Lark Health",
+    "slug": "lark-health",
+    "category": "Healthcare",
+    "pricing": "Freemium",
+    "description": "AI health coaching platform for managing chronic conditions like diabetes.",
+    "website": "https://www.lark.com",
+    "logo": ""
+  },
+  {
+    "name": "Wearipedia",
+    "slug": "wearipedia",
+    "category": "Healthcare",
+    "pricing": "Free",
+    "description": "AI platform for analyzing health data from wearable devices.",
+    "website": "https://wearipedia.com",
+    "logo": ""
+  },
+  {
+    "name": "Tableau AI",
+    "slug": "tableau-ai",
+    "category": "Analytics",
+    "pricing": "Paid",
+    "description": "AI-powered data visualization and analytics platform for business intelligence.",
+    "website": "https://www.tableau.com",
+    "logo": ""
+  },
+  {
+    "name": "Power BI AI",
+    "slug": "power-bi-ai",
+    "category": "Analytics",
+    "pricing": "Freemium",
+    "description": "Microsoft's AI-enhanced business analytics tool for interactive data reports.",
+    "website": "https://powerbi.microsoft.com",
+    "logo": ""
+  },
+  {
+    "name": "Domo AI",
+    "slug": "domo-ai",
+    "category": "Analytics",
+    "pricing": "Paid",
+    "description": "AI-driven business intelligence platform with natural language querying.",
+    "website": "https://www.domo.com",
+    "logo": ""
+  },
+  {
+    "name": "ThoughtSpot",
+    "slug": "thoughtspot",
+    "category": "Analytics",
+    "pricing": "Freemium",
+    "description": "AI-powered search and analytics platform for asking data questions in natural language.",
+    "website": "https://www.thoughtspot.com",
+    "logo": ""
+  },
+  {
+    "name": "Sisense AI",
+    "slug": "sisense-ai",
+    "category": "Analytics",
+    "pricing": "Paid",
+    "description": "AI-powered business intelligence platform with embedded analytics capabilities.",
+    "website": "https://www.sisense.com",
+    "logo": ""
+  },
+  {
+    "name": "Dataiku",
+    "slug": "dataiku",
+    "category": "Analytics",
+    "pricing": "Freemium",
+    "description": "AI and machine learning platform for building and deploying data science projects.",
+    "website": "https://www.dataiku.com",
+    "logo": ""
+  },
+  {
+    "name": "H2O.ai",
+    "slug": "h2o-ai",
+    "category": "Analytics",
+    "pricing": "Freemium",
+    "description": "Open-source AI and AutoML platform for building predictive models.",
+    "website": "https://h2o.ai",
+    "logo": ""
+  },
+  {
+    "name": "DataRobot",
+    "slug": "datarobot",
+    "category": "Analytics",
+    "pricing": "Paid",
+    "description": "Enterprise AI platform for automating machine learning model development.",
+    "website": "https://www.datarobot.com",
+    "logo": ""
+  },
+  {
+    "name": "Obviously AI",
+    "slug": "obviously-ai",
+    "category": "Analytics",
+    "pricing": "Paid",
+    "description": "No-code AI platform for building predictive models without data science expertise.",
+    "website": "https://www.obviously.ai",
+    "logo": ""
+  },
+  {
+    "name": "Akkio",
+    "slug": "akkio",
+    "category": "Analytics",
+    "pricing": "Freemium",
+    "description": "No-code AI analytics platform for forecasting and predictive insights.",
+    "website": "https://www.akkio.com",
+    "logo": ""
+  },
+  {
+    "name": "Julius AI",
+    "slug": "julius-ai",
+    "category": "Analytics",
+    "pricing": "Freemium",
+    "description": "AI data analyst that analyzes uploaded datasets and creates visualizations via chat.",
+    "website": "https://julius.ai",
+    "logo": ""
+  },
+  {
+    "name": "Polymer",
+    "slug": "polymer",
+    "category": "Analytics",
+    "pricing": "Freemium",
+    "description": "AI-powered data exploration tool that turns spreadsheets into interactive dashboards.",
+    "website": "https://www.polymersearch.com",
+    "logo": ""
+  },
+  {
+    "name": "Rows AI",
+    "slug": "rows-ai",
+    "category": "Analytics",
+    "pricing": "Freemium",
+    "description": "AI-powered spreadsheet tool that can analyze data with natural language prompts.",
+    "website": "https://rows.com",
+    "logo": ""
+  },
+  {
+    "name": "Hex AI",
+    "slug": "hex-ai",
+    "category": "Analytics",
+    "pricing": "Freemium",
+    "description": "AI-powered data workspace for SQL analysis, Python notebooks, and sharing insights.",
+    "website": "https://hex.tech",
+    "logo": ""
+  },
+  {
+    "name": "Mode Analytics",
+    "slug": "mode-analytics",
+    "category": "Analytics",
+    "pricing": "Freemium",
+    "description": "AI-assisted analytics platform for data teams to build and share analyses.",
+    "website": "https://mode.com",
+    "logo": ""
+  },
+  {
+    "name": "Metabase AI",
+    "slug": "metabase-ai",
+    "category": "Analytics",
+    "pricing": "Freemium",
+    "description": "Open-source business intelligence tool with AI query assistance.",
+    "website": "https://www.metabase.com",
+    "logo": ""
+  },
+  {
+    "name": "Deepnote AI",
+    "slug": "deepnote-ai",
+    "category": "Analytics",
+    "pricing": "Freemium",
+    "description": "AI-powered data science notebook for collaboration and analysis.",
+    "website": "https://deepnote.com",
+    "logo": ""
+  },
+  {
+    "name": "Qlik AI",
+    "slug": "qlik-ai",
+    "category": "Analytics",
+    "pricing": "Paid",
+    "description": "AI-augmented analytics platform for real-time data integration and insights.",
+    "website": "https://www.qlik.com",
+    "logo": ""
+  },
+  {
+    "name": "Amplitude AI",
+    "slug": "amplitude-ai",
+    "category": "Analytics",
+    "pricing": "Freemium",
+    "description": "AI product analytics platform for understanding user behavior and growth.",
+    "website": "https://amplitude.com",
+    "logo": ""
+  },
+  {
+    "name": "Mixpanel AI",
+    "slug": "mixpanel-ai",
+    "category": "Analytics",
+    "pricing": "Freemium",
+    "description": "AI-enhanced product analytics for tracking events and user journeys.",
+    "website": "https://mixpanel.com",
+    "logo": ""
+  },
+  {
+    "name": "June AI",
+    "slug": "june-ai",
+    "category": "Analytics",
+    "pricing": "Freemium",
+    "description": "AI product analytics tool for B2B SaaS companies to track activation and retention.",
+    "website": "https://www.june.so",
+    "logo": ""
+  },
+  {
+    "name": "PostHog AI",
+    "slug": "posthog-ai",
+    "category": "Analytics",
+    "pricing": "Freemium",
+    "description": "Open-source product analytics with AI features for self-hosted deployments.",
+    "website": "https://posthog.com",
+    "logo": ""
+  },
+  {
+    "name": "Heap AI",
+    "slug": "heap-ai",
+    "category": "Analytics",
+    "pricing": "Freemium",
+    "description": "AI-powered digital insights platform for automatic user behavior tracking.",
+    "website": "https://heap.io",
+    "logo": ""
+  },
+  {
+    "name": "Churnkey",
+    "slug": "churnkey",
+    "category": "Analytics",
+    "pricing": "Freemium",
+    "description": "AI platform for reducing SaaS churn with personalized cancellation flows.",
+    "website": "https://churnkey.co",
+    "logo": ""
+  },
+  {
+    "name": "Userpilot AI",
+    "slug": "userpilot-ai",
+    "category": "Analytics",
+    "pricing": "Paid",
+    "description": "AI product growth platform for user onboarding and feature adoption analytics.",
+    "website": "https://userpilot.com",
+    "logo": ""
+  },
+  {
+    "name": "FullStory AI",
+    "slug": "fullstory-ai",
+    "category": "Analytics",
+    "pricing": "Paid",
+    "description": "AI digital experience intelligence platform with session replay and analytics.",
+    "website": "https://www.fullstory.com",
+    "logo": ""
+  },
+  {
+    "name": "Hotjar AI",
+    "slug": "hotjar-ai",
+    "category": "Analytics",
+    "pricing": "Freemium",
+    "description": "AI-powered heatmaps and session recordings for understanding website user behavior.",
+    "website": "https://www.hotjar.com",
+    "logo": ""
+  },
+  {
+    "name": "Microsoft Azure AI",
+    "slug": "microsoft-azure-ai",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "Comprehensive cloud AI services for building intelligent applications at scale.",
+    "website": "https://azure.microsoft.com/en-us/solutions/ai",
+    "logo": ""
+  },
+  {
+    "name": "Google Cloud AI",
+    "slug": "google-cloud-ai",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "Suite of Google Cloud AI and machine learning products and services.",
+    "website": "https://cloud.google.com/products/ai",
+    "logo": ""
+  },
+  {
+    "name": "AWS AI Services",
+    "slug": "aws-ai-services",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "Amazon's suite of cloud-based AI and machine learning services.",
+    "website": "https://aws.amazon.com/machine-learning",
+    "logo": ""
+  },
+  {
+    "name": "IBM Watson",
+    "slug": "ibm-watson",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "IBM's AI platform for building intelligent business applications.",
+    "website": "https://www.ibm.com/watson",
+    "logo": ""
+  },
+  {
+    "name": "Vertex AI",
+    "slug": "vertex-ai",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "Google Cloud's unified AI platform for building and deploying ML models.",
+    "website": "https://cloud.google.com/vertex-ai",
+    "logo": ""
+  },
+  {
+    "name": "SageMaker",
+    "slug": "sagemaker",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AWS fully managed machine learning service for building and deploying models.",
+    "website": "https://aws.amazon.com/sagemaker",
+    "logo": ""
+  },
+  {
+    "name": "DataBricks AI",
+    "slug": "databricks-ai",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "Unified data and AI platform for lakehouse architecture and ML workloads.",
+    "website": "https://www.databricks.com",
+    "logo": ""
+  },
+  {
+    "name": "Snowflake Cortex",
+    "slug": "snowflake-cortex",
+    "category": "Analytics",
+    "pricing": "Freemium",
+    "description": "AI features built into Snowflake for LLM inference and intelligent analytics.",
+    "website": "https://www.snowflake.com/en/data-cloud/cortex",
+    "logo": ""
+  },
+  {
+    "name": "Salesforce Einstein",
+    "slug": "salesforce-einstein",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI layer across the Salesforce platform for predictions and recommendations.",
+    "website": "https://www.salesforce.com/products/einstein/overview",
+    "logo": ""
+  },
+  {
+    "name": "ServiceNow AI",
+    "slug": "servicenow-ai",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "description": "AI-powered digital workflows for IT service management and enterprise automation.",
+    "website": "https://www.servicenow.com/products/artificial-intelligence.html",
+    "logo": ""
+  },
+  {
+    "name": "Workday AI",
+    "slug": "workday-ai",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "description": "AI-powered HR and finance management platform for enterprise operations.",
+    "website": "https://www.workday.com/en-us/artificial-intelligence.html",
+    "logo": ""
+  },
+  {
+    "name": "SAP AI",
+    "slug": "sap-ai",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "description": "AI capabilities embedded across SAP's enterprise applications and workflows.",
+    "website": "https://www.sap.com/products/artificial-intelligence.html",
+    "logo": ""
+  },
+  {
+    "name": "Oracle AI",
+    "slug": "oracle-ai",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI services integrated into Oracle Cloud Infrastructure for enterprise use.",
+    "website": "https://www.oracle.com/artificial-intelligence",
+    "logo": ""
+  },
+  {
+    "name": "Zendesk AI",
+    "slug": "zendesk-ai",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "description": "AI customer service tools for automating support tickets and agent assistance.",
+    "website": "https://www.zendesk.com/service/ai",
+    "logo": ""
+  },
+  {
+    "name": "Freshdesk AI",
+    "slug": "freshdesk-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI-powered customer support platform with automation and insight features.",
+    "website": "https://www.freshworks.com/freshdesk",
+    "logo": ""
+  },
+  {
+    "name": "Zoho Zia",
+    "slug": "zoho-zia",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "Zoho's AI assistant built across CRM and business productivity applications.",
+    "website": "https://www.zoho.com/zia.html",
+    "logo": ""
+  },
+  {
+    "name": "Monday AI",
+    "slug": "monday-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI-powered work management features in Monday.com for automation and insights.",
+    "website": "https://monday.com/features/ai",
+    "logo": ""
+  },
+  {
+    "name": "Asana AI",
+    "slug": "asana-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI intelligence features in Asana for goal tracking, smart summaries, and workflows.",
+    "website": "https://asana.com/product/ai",
+    "logo": ""
+  },
+  {
+    "name": "ClickUp AI",
+    "slug": "clickup-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI writing and productivity assistant built into ClickUp project management.",
+    "website": "https://clickup.com/ai",
+    "logo": ""
+  },
+  {
+    "name": "Linear AI",
+    "slug": "linear-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI features in Linear for automating issue tracking and software project management.",
+    "website": "https://linear.app",
+    "logo": ""
+  },
+  {
+    "name": "Jira AI",
+    "slug": "jira-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI capabilities in Atlassian Jira for summarizing issues and automating workflows.",
+    "website": "https://www.atlassian.com/software/jira",
+    "logo": ""
+  },
+  {
+    "name": "Confluence AI",
+    "slug": "confluence-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI writing and knowledge management features in Atlassian Confluence.",
+    "website": "https://www.atlassian.com/software/confluence",
+    "logo": ""
+  },
+  {
+    "name": "Slack AI",
+    "slug": "slack-ai",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "description": "AI features in Slack for summarizing conversations and searching work knowledge.",
+    "website": "https://slack.com/features/ai",
+    "logo": ""
+  },
+  {
+    "name": "Teams AI",
+    "slug": "teams-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI features in Microsoft Teams including Copilot for meeting summaries.",
+    "website": "https://www.microsoft.com/en-us/microsoft-teams",
+    "logo": ""
+  },
+  {
+    "name": "Zoom AI Companion",
+    "slug": "zoom-ai-companion",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "Zoom's AI assistant for meeting summaries, chat replies, and whiteboard generation.",
+    "website": "https://www.zoom.com/en/ai-assistant",
+    "logo": ""
+  },
+  {
+    "name": "Google Meet AI",
+    "slug": "google-meet-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI features in Google Meet including captions, notes, and background effects.",
+    "website": "https://meet.google.com",
+    "logo": ""
+  },
+  {
+    "name": "Loom AI",
+    "slug": "loom-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI features in Loom for auto-transcription, summaries, and message removal.",
+    "website": "https://www.loom.com/ai",
+    "logo": ""
+  },
+  {
+    "name": "Fathom AI",
+    "slug": "fathom-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI meeting assistant that records, transcribes, and summarizes calls automatically.",
+    "website": "https://fathom.video",
+    "logo": ""
+  },
+  {
+    "name": "Avoma",
+    "slug": "avoma",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI meeting intelligence platform for transcription, notes, and conversation analytics.",
+    "website": "https://www.avoma.com",
+    "logo": ""
+  },
+  {
+    "name": "Gong AI",
+    "slug": "gong-ai",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI revenue intelligence platform that analyzes sales calls and customer interactions.",
+    "website": "https://www.gong.io",
+    "logo": ""
+  },
+  {
+    "name": "Chorus AI",
+    "slug": "chorus-ai",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI conversation intelligence platform for sales teams to improve performance.",
+    "website": "https://www.chorus.ai",
+    "logo": ""
+  },
+  {
+    "name": "Clari",
+    "slug": "clari",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI revenue operations platform for sales forecasting and pipeline management.",
+    "website": "https://www.clari.com",
+    "logo": ""
+  },
+  {
+    "name": "People.ai",
+    "slug": "people-ai",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI platform for capturing and analyzing revenue team activity data.",
+    "website": "https://people.ai",
+    "logo": ""
+  },
+  {
+    "name": "Outreach AI",
+    "slug": "outreach-ai",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI sales execution platform for automating and optimizing outreach workflows.",
+    "website": "https://www.outreach.io",
+    "logo": ""
+  },
+  {
+    "name": "SalesLoft AI",
+    "slug": "salesloft-ai",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI sales engagement platform for revenue teams to automate sales cadences.",
+    "website": "https://salesloft.com",
+    "logo": ""
+  },
+  {
+    "name": "6sense AI",
+    "slug": "6sense-ai",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI revenue intelligence platform for B2B sales and marketing teams.",
+    "website": "https://6sense.com",
+    "logo": ""
+  },
+  {
+    "name": "Bombora",
+    "slug": "bombora",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI B2B intent data platform for identifying companies researching your solutions.",
+    "website": "https://bombora.com",
+    "logo": ""
+  },
+  {
+    "name": "Clay AI",
+    "slug": "clay-ai",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI data enrichment platform for building hyper-personalized outreach at scale.",
+    "website": "https://www.clay.com",
+    "logo": ""
+  },
+  {
+    "name": "Apollo AI",
+    "slug": "apollo-ai",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI sales intelligence and engagement platform for prospecting and outreach.",
+    "website": "https://www.apollo.io",
+    "logo": ""
+  },
+  {
+    "name": "ZoomInfo AI",
+    "slug": "zoominfo-ai",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI-powered B2B data platform for sales and marketing intelligence.",
+    "website": "https://www.zoominfo.com",
+    "logo": ""
+  },
+  {
+    "name": "Cognism",
+    "slug": "cognism",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI B2B sales intelligence platform with compliant contact and company data.",
+    "website": "https://www.cognism.com",
+    "logo": ""
+  },
+  {
+    "name": "Lusha AI",
+    "slug": "lusha-ai",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI prospecting platform for finding accurate B2B contact information.",
+    "website": "https://www.lusha.com",
+    "logo": ""
+  },
+  {
+    "name": "Clearbit AI",
+    "slug": "clearbit-ai",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI data enrichment platform for real-time business intelligence on leads.",
+    "website": "https://clearbit.com",
+    "logo": ""
+  },
+  {
+    "name": "Hunter.io AI",
+    "slug": "hunter-io",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI email finder platform for finding professional email addresses.",
+    "website": "https://hunter.io",
+    "logo": ""
+  },
+  {
+    "name": "Legalzoom AI",
+    "slug": "legalzoom-ai",
+    "category": "Legal",
+    "pricing": "Paid",
+    "description": "AI-powered legal services platform for business formation and document creation.",
+    "website": "https://www.legalzoom.com",
+    "logo": ""
+  },
+  {
+    "name": "ContractPodAi",
+    "slug": "contractpodai",
+    "category": "Legal",
+    "pricing": "Paid",
+    "description": "AI-powered contract lifecycle management platform for legal teams.",
+    "website": "https://contractpodai.com",
+    "logo": ""
+  },
+  {
+    "name": "Evisort",
+    "slug": "evisort",
+    "category": "Legal",
+    "pricing": "Paid",
+    "description": "AI contract intelligence platform for automating contract analysis and management.",
+    "website": "https://www.evisort.com",
+    "logo": ""
+  },
+  {
+    "name": "Kira Systems",
+    "slug": "kira-systems",
+    "category": "Legal",
+    "pricing": "Paid",
+    "description": "AI contract review software for identifying and extracting key clauses.",
+    "website": "https://kirasystems.com",
+    "logo": ""
+  },
+  {
+    "name": "Beagle Security AI",
+    "slug": "beagle-security-ai",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI-powered web application penetration testing platform.",
+    "website": "https://beaglesecurity.com",
+    "logo": ""
+  },
+  {
+    "name": "Darktrace",
+    "slug": "darktrace",
+    "category": "Development",
+    "pricing": "Paid",
+    "description": "AI cybersecurity platform for autonomous threat detection and response.",
+    "website": "https://darktrace.com",
+    "logo": ""
+  },
+  {
+    "name": "CrowdStrike AI",
+    "slug": "crowdstrike-ai",
+    "category": "Development",
+    "pricing": "Paid",
+    "description": "AI-native cybersecurity platform for endpoint protection and threat intelligence.",
+    "website": "https://www.crowdstrike.com",
+    "logo": ""
+  },
+  {
+    "name": "SentinelOne AI",
+    "slug": "sentinelone-ai",
+    "category": "Development",
+    "pricing": "Paid",
+    "description": "AI-powered endpoint security and threat detection platform.",
+    "website": "https://www.sentinelone.com",
+    "logo": ""
+  },
+  {
+    "name": "Vectra AI",
+    "slug": "vectra-ai",
+    "category": "Development",
+    "pricing": "Paid",
+    "description": "AI-driven network detection and response platform for cybersecurity.",
+    "website": "https://www.vectra.ai",
+    "logo": ""
+  },
+  {
+    "name": "Recorded Future",
+    "slug": "recorded-future",
+    "category": "Development",
+    "pricing": "Paid",
+    "description": "AI threat intelligence platform for real-time cyber threat analysis.",
+    "website": "https://www.recordedfuture.com",
+    "logo": ""
+  },
+  {
+    "name": "Abnormal Security",
+    "slug": "abnormal-security",
+    "category": "Development",
+    "pricing": "Paid",
+    "description": "AI email security platform for detecting and stopping advanced phishing attacks.",
+    "website": "https://abnormalsecurity.com",
+    "logo": ""
+  },
+  {
+    "name": "Tessian AI",
+    "slug": "tessian-ai",
+    "category": "Development",
+    "pricing": "Paid",
+    "description": "AI email security platform that prevents misdirected emails and data breaches.",
+    "website": "https://www.tessian.com",
+    "logo": ""
+  },
+  {
+    "name": "Wiz AI",
+    "slug": "wiz-ai",
+    "category": "Development",
+    "pricing": "Paid",
+    "description": "AI-powered cloud security platform for identifying risks across cloud environments.",
+    "website": "https://www.wiz.io",
+    "logo": ""
+  },
+  {
+    "name": "Orca Security",
+    "slug": "orca-security",
+    "category": "Development",
+    "pricing": "Paid",
+    "description": "AI cloud security platform for detecting vulnerabilities and compliance issues.",
+    "website": "https://orca.security",
+    "logo": ""
+  },
+  {
+    "name": "Pictographic AI",
+    "slug": "pictographic-ai",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "AI illustration generator for creating unique icons and graphics.",
+    "website": "https://pictographic.io",
+    "logo": ""
+  },
+  {
+    "name": "Looka",
+    "slug": "looka",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "AI logo maker that creates professional brand identity and logo designs.",
+    "website": "https://looka.com",
+    "logo": ""
+  },
+  {
+    "name": "Brandmark",
+    "slug": "brandmark",
+    "category": "Design",
+    "pricing": "Paid",
+    "description": "AI logo generator that designs unique brand logos using machine learning.",
+    "website": "https://brandmark.io",
+    "logo": ""
+  },
+  {
+    "name": "Designs.ai",
+    "slug": "designs-ai",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "AI creative toolkit for logos, videos, banners, and mockups.",
+    "website": "https://designs.ai",
+    "logo": ""
+  },
+  {
+    "name": "Uizard",
+    "slug": "uizard",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "AI UI design tool that transforms wireframes and sketches into design mockups.",
+    "website": "https://uizard.io",
+    "logo": ""
+  },
+  {
+    "name": "Framer AI",
+    "slug": "framer-ai",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "AI website builder that generates and designs websites from text descriptions.",
+    "website": "https://www.framer.com",
+    "logo": ""
+  },
+  {
+    "name": "Wix ADI",
+    "slug": "wix-adi",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "AI website builder that creates personalized websites automatically.",
+    "website": "https://www.wix.com/adi",
+    "logo": ""
+  },
+  {
+    "name": "Durable AI",
+    "slug": "durable-ai",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "AI website builder that generates a small business website in 30 seconds.",
+    "website": "https://durable.co",
+    "logo": ""
+  },
+  {
+    "name": "10Web AI",
+    "slug": "10web-ai",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "AI WordPress website builder for creating and optimizing web pages.",
+    "website": "https://10web.io",
+    "logo": ""
+  },
+  {
+    "name": "Zyro AI",
+    "slug": "zyro-ai",
+    "category": "Design",
+    "pricing": "Paid",
+    "description": "AI website builder with content generation and business tools.",
+    "website": "https://zyro.com",
+    "logo": ""
+  },
+  {
+    "name": "Mixo AI",
+    "slug": "mixo-ai",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "AI startup website builder that creates landing pages from a single sentence.",
+    "website": "https://mixo.io",
+    "logo": ""
+  },
+  {
+    "name": "Debuild",
+    "slug": "debuild",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI web app builder that generates full applications from plain text descriptions.",
+    "website": "https://debuild.app",
+    "logo": ""
+  },
+  {
+    "name": "Teleporthq AI",
+    "slug": "teleporthq-ai",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI-powered front-end development platform for creating websites visually.",
+    "website": "https://teleporthq.io",
+    "logo": ""
+  },
+  {
+    "name": "Enzyme",
+    "slug": "enzyme",
+    "category": "Development",
+    "pricing": "Paid",
+    "description": "AI product development platform for rapid prototyping and iteration.",
+    "website": "https://www.enzymehealth.com",
+    "logo": ""
+  },
+  {
+    "name": "Literally Anything",
+    "slug": "literally-anything",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI tool that creates web apps and tools from simple text descriptions.",
+    "website": "https://www.literallyanything.io",
+    "logo": ""
+  },
+  {
+    "name": "Bubble AI",
+    "slug": "bubble-ai",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "No-code platform with AI features for building web applications without code.",
+    "website": "https://bubble.io",
+    "logo": ""
+  },
+  {
+    "name": "Webflow AI",
+    "slug": "webflow-ai",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "AI-powered design tools in Webflow for building responsive websites.",
+    "website": "https://webflow.com/ai",
+    "logo": ""
+  },
+  {
+    "name": "Dorik AI",
+    "slug": "dorik-ai",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "AI website builder that generates websites and blog posts with one click.",
+    "website": "https://dorik.com",
+    "logo": ""
+  },
+  {
+    "name": "Unbounce AI",
+    "slug": "unbounce-ai",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI landing page builder and optimization platform for marketers.",
+    "website": "https://unbounce.com",
+    "logo": ""
+  },
+  {
+    "name": "Instapage AI",
+    "slug": "instapage-ai",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI-powered landing page platform for creating and optimizing conversion pages.",
+    "website": "https://instapage.com",
+    "logo": ""
+  },
+  {
+    "name": "Leadpages AI",
+    "slug": "leadpages-ai",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI landing page builder for creating high-converting pages and pop-ups.",
+    "website": "https://www.leadpages.com",
+    "logo": ""
+  },
+  {
+    "name": "Opinew AI",
+    "slug": "opinew-ai",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI product review app that generates and manages customer reviews for ecommerce.",
+    "website": "https://opinew.com",
+    "logo": ""
+  },
+  {
+    "name": "Yotpo AI",
+    "slug": "yotpo-ai",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI ecommerce marketing platform for reviews, loyalty, and referral programs.",
+    "website": "https://www.yotpo.com",
+    "logo": ""
+  },
+  {
+    "name": "Klaviyo AI",
+    "slug": "klaviyo-ai",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI-powered email and SMS marketing automation platform for ecommerce brands.",
+    "website": "https://www.klaviyo.com",
+    "logo": ""
+  },
+  {
+    "name": "Attentive AI",
+    "slug": "attentive-ai",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI SMS and email marketing platform for personalized messaging at scale.",
+    "website": "https://www.attentive.com",
+    "logo": ""
+  },
+  {
+    "name": "Postscript AI",
+    "slug": "postscript-ai",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI SMS marketing platform for Shopify brands to drive revenue through text.",
+    "website": "https://postscript.io",
+    "logo": ""
+  },
+  {
+    "name": "Retention Science",
+    "slug": "retention-science",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI marketing automation platform for predicting and optimizing customer retention.",
+    "website": "https://www.retentionscience.com",
+    "logo": ""
+  },
+  {
+    "name": "Blueshift AI",
+    "slug": "blueshift-ai",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI customer data platform for cross-channel personalized marketing.",
+    "website": "https://blueshift.com",
+    "logo": ""
+  },
+  {
+    "name": "Braze AI",
+    "slug": "braze-ai",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI customer engagement platform with intelligent message personalization.",
+    "website": "https://www.braze.com",
+    "logo": ""
+  },
+  {
+    "name": "Segment AI",
+    "slug": "segment-ai",
+    "category": "Analytics",
+    "pricing": "Freemium",
+    "description": "AI customer data platform for collecting, cleaning, and activating customer data.",
+    "website": "https://segment.com",
+    "logo": ""
+  },
+  {
+    "name": "Treasure Data AI",
+    "slug": "treasure-data-ai",
+    "category": "Analytics",
+    "pricing": "Paid",
+    "description": "Enterprise AI customer data platform for unifying and analyzing customer data.",
+    "website": "https://www.treasuredata.com",
+    "logo": ""
+  },
+  {
+    "name": "Insider AI",
+    "slug": "insider-ai",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI growth management platform for personalized cross-channel marketing.",
+    "website": "https://useinsider.com",
+    "logo": ""
+  },
+  {
+    "name": "Dynamic Yield",
+    "slug": "dynamic-yield",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI-powered experience optimization platform for personalized web experiences.",
+    "website": "https://www.dynamicyield.com",
+    "logo": ""
+  },
+  {
+    "name": "Bloomreach AI",
+    "slug": "bloomreach-ai",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI commerce experience platform for personalized product discovery and marketing.",
+    "website": "https://www.bloomreach.com",
+    "logo": ""
+  },
+  {
+    "name": "Yext AI",
+    "slug": "yext-ai",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI search and digital presence platform for managing brand information.",
+    "website": "https://www.yext.com",
+    "logo": ""
+  },
+  {
+    "name": "Taggstar AI",
+    "slug": "taggstar-ai",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI social proof messaging platform for ecommerce conversion optimization.",
+    "website": "https://www.taggstar.com",
+    "logo": ""
+  },
+  {
+    "name": "Optimizely AI",
+    "slug": "optimizely-ai",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI-powered digital experimentation and content management platform.",
+    "website": "https://www.optimizely.com",
+    "logo": ""
+  },
+  {
+    "name": "VWO AI",
+    "slug": "vwo-ai",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI A/B testing and conversion optimization platform for digital experiences.",
+    "website": "https://vwo.com",
+    "logo": ""
+  },
+  {
+    "name": "AB Tasty AI",
+    "slug": "ab-tasty-ai",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI experimentation platform for testing and personalizing digital experiences.",
+    "website": "https://www.abtasty.com",
+    "logo": ""
+  },
+  {
+    "name": "Evolv AI",
+    "slug": "evolv-ai",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI continuous experimentation platform that optimizes experiences autonomously.",
+    "website": "https://www.evolv.ai",
+    "logo": ""
+  },
+  {
+    "name": "Personyze",
+    "slug": "personyze",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI website personalization platform for delivering tailored content to visitors.",
+    "website": "https://www.personyze.com",
+    "logo": ""
+  },
+  {
+    "name": "Nosto AI",
+    "slug": "nosto-ai",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI ecommerce personalization platform for product recommendations and targeting.",
+    "website": "https://www.nosto.com",
+    "logo": ""
+  },
+  {
+    "name": "Constructor.io",
+    "slug": "constructor-io",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI product search and discovery platform for ecommerce sites.",
+    "website": "https://constructor.io",
+    "logo": ""
+  },
+  {
+    "name": "Algolia AI",
+    "slug": "algolia-ai",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI-powered search and discovery API for building fast, relevant search experiences.",
+    "website": "https://www.algolia.com",
+    "logo": ""
+  },
+  {
+    "name": "Elastic AI",
+    "slug": "elastic-ai",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI-powered search and observability platform for enterprise applications.",
+    "website": "https://www.elastic.co/ai",
+    "logo": ""
+  },
+  {
+    "name": "Coveo AI",
+    "slug": "coveo-ai",
+    "category": "Development",
+    "pricing": "Paid",
+    "description": "AI search and relevance platform for enterprise and ecommerce applications.",
+    "website": "https://www.coveo.com",
+    "logo": ""
+  },
+  {
+    "name": "Lucidworks AI",
+    "slug": "lucidworks-ai",
+    "category": "Development",
+    "pricing": "Paid",
+    "description": "AI search platform for digital commerce and workplace applications.",
+    "website": "https://lucidworks.com",
+    "logo": ""
+  },
+  {
+    "name": "Vectara",
+    "slug": "vectara",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI search and RAG platform for building accurate question-answering systems.",
+    "website": "https://vectara.com",
+    "logo": ""
+  },
+  {
+    "name": "Qdrant",
+    "slug": "qdrant",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "Open-source vector database and similarity search engine for AI applications.",
+    "website": "https://qdrant.tech",
+    "logo": ""
+  },
+  {
+    "name": "Milvus",
+    "slug": "milvus",
+    "category": "Development",
+    "pricing": "Free",
+    "description": "Open-source vector database built for AI applications and embedding storage.",
+    "website": "https://milvus.io",
+    "logo": ""
+  },
+  {
+    "name": "Redis AI",
+    "slug": "redis-ai",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI-powered in-memory data store for vector similarity search and caching.",
+    "website": "https://redis.io/docs/interact/search-and-query/query/vector-search",
+    "logo": ""
+  },
+  {
+    "name": "Zilliz",
+    "slug": "zilliz",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "Fully managed cloud vector database service built on Milvus.",
+    "website": "https://zilliz.com",
+    "logo": ""
+  },
+  {
+    "name": "MyShell AI",
+    "slug": "myshell-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI app creation platform for building and sharing custom AI bots and companions.",
+    "website": "https://myshell.ai",
+    "logo": ""
+  },
+  {
+    "name": "Dify AI",
+    "slug": "dify-ai",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "Open-source LLM app development platform for building AI workflows and chatbots.",
+    "website": "https://dify.ai",
+    "logo": ""
+  },
+  {
+    "name": "StackAI",
+    "slug": "stackai",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "No-code platform for building and deploying AI automations for enterprise.",
+    "website": "https://www.stack-ai.com",
+    "logo": ""
+  },
+  {
+    "name": "Voiceflow",
+    "slug": "voiceflow",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI agent building platform for designing and deploying conversational experiences.",
+    "website": "https://www.voiceflow.com",
+    "logo": ""
+  },
+  {
+    "name": "Botpress",
+    "slug": "botpress",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "Open-source AI chatbot building platform for creating intelligent virtual agents.",
+    "website": "https://botpress.com",
+    "logo": ""
+  },
+  {
+    "name": "Landbot AI",
+    "slug": "landbot-ai",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI chatbot builder for creating conversational landing pages and lead gen flows.",
+    "website": "https://landbot.io",
+    "logo": ""
+  },
+  {
+    "name": "Collect.chat",
+    "slug": "collect-chat",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "AI chatbot form builder for collecting data through conversational interfaces.",
+    "website": "https://collect.chat",
+    "logo": ""
+  },
+  {
+    "name": "Typebot",
+    "slug": "typebot",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "description": "Open-source conversational form builder with AI integration capabilities.",
+    "website": "https://typebot.io",
+    "logo": ""
+  },
+  {
+    "name": "Tars AI",
+    "slug": "tars-ai",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI chatbot platform for creating conversational landing pages and customer support.",
+    "website": "https://hellotars.com",
+    "logo": ""
+  },
+  {
+    "name": "Botsonic",
+    "slug": "botsonic",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "No-code AI chatbot builder for training bots on custom data.",
+    "website": "https://writesonic.com/botsonic",
+    "logo": ""
+  },
+  {
+    "name": "CustomGPT.ai",
+    "slug": "customgpt-ai",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "Platform for building custom ChatGPT-powered chatbots from your own content.",
+    "website": "https://customgpt.ai",
+    "logo": ""
+  },
+  {
+    "name": "Dante AI",
+    "slug": "dante-ai",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "No-code platform for creating custom AI chatbots trained on your documents.",
+    "website": "https://dante-ai.com",
+    "logo": ""
+  },
+  {
+    "name": "Chatbase",
+    "slug": "chatbase",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI chatbot builder for embedding a custom ChatGPT into your website.",
+    "website": "https://www.chatbase.co",
+    "logo": ""
+  },
+  {
+    "name": "SiteGPT",
+    "slug": "sitegpt",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI chatbot trained on your website content for instant customer support.",
+    "website": "https://sitegpt.ai",
+    "logo": ""
+  },
+  {
+    "name": "Mendable",
+    "slug": "mendable",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI chat search platform for developer documentation and technical knowledge bases.",
+    "website": "https://www.mendable.ai",
+    "logo": ""
+  },
+  {
+    "name": "DocsBot AI",
+    "slug": "docsbot-ai",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI chatbot builder for answering questions from your documentation.",
+    "website": "https://docsbot.ai",
+    "logo": ""
+  },
+  {
+    "name": "Brainfish",
+    "slug": "brainfish",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI customer support tool that gives instant answers from product documentation.",
+    "website": "https://www.brainfish.io",
+    "logo": ""
+  },
+  {
+    "name": "Forethought AI",
+    "slug": "forethought-ai",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "description": "AI customer support automation platform for deflecting tickets and assisting agents.",
+    "website": "https://forethought.ai",
+    "logo": ""
+  },
+  {
+    "name": "Kustomer AI",
+    "slug": "kustomer-ai",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "description": "AI-powered CRM platform for omnichannel customer service.",
+    "website": "https://www.kustomer.com",
+    "logo": ""
+  },
+  {
+    "name": "Ultimate AI",
+    "slug": "ultimate-ai",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "description": "AI customer support automation platform for scaling support via chat and email.",
+    "website": "https://www.ultimate.ai",
+    "logo": ""
+  },
+  {
+    "name": "Aisera",
+    "slug": "aisera",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "description": "AI platform for automating IT, HR, and customer service workflows.",
+    "website": "https://aisera.com",
+    "logo": ""
+  },
+  {
+    "name": "Assembled AI",
+    "slug": "assembled-ai",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "description": "AI workforce management platform for support teams and contact centers.",
+    "website": "https://www.assembled.com",
+    "logo": ""
+  },
+  {
+    "name": "Cresta AI",
+    "slug": "cresta-ai",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "description": "AI platform for real-time coaching and quality management in contact centers.",
+    "website": "https://cresta.com",
+    "logo": ""
+  },
+  {
+    "name": "Observe.AI",
+    "slug": "observe-ai",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "description": "AI conversation intelligence platform for contact center quality assurance.",
+    "website": "https://www.observe.ai",
+    "logo": ""
+  },
+  {
+    "name": "Balto AI",
+    "slug": "balto-ai",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "description": "Real-time AI guidance platform for call center agents during live conversations.",
+    "website": "https://www.balto.ai",
+    "logo": ""
+  },
+  {
+    "name": "Cogito AI",
+    "slug": "cogito-ai",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "description": "AI platform that provides real-time emotional intelligence coaching for call agents.",
+    "website": "https://cogitocorp.com",
+    "logo": ""
+  },
+  {
+    "name": "Five9 AI",
+    "slug": "five9-ai",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "description": "AI-powered cloud contact center solution with intelligent virtual agents.",
+    "website": "https://www.five9.com",
+    "logo": ""
+  },
+  {
+    "name": "Genesys AI",
+    "slug": "genesys-ai",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "description": "AI-powered customer experience platform for omnichannel contact centers.",
+    "website": "https://www.genesys.com/capabilities/artificial-intelligence",
+    "logo": ""
+  },
+  {
+    "name": "NICE AI",
+    "slug": "nice-ai",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "description": "AI-powered cloud platform for customer experience and workforce optimization.",
+    "website": "https://www.nice.com",
+    "logo": ""
+  },
+  {
+    "name": "Laxis AI",
+    "slug": "laxis-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI meeting assistant and note-taker for capturing and organizing key insights.",
+    "website": "https://www.laxis.com",
+    "logo": ""
+  },
+  {
+    "name": "Notta AI",
+    "slug": "notta-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI transcription and meeting notes app supporting multiple languages.",
+    "website": "https://www.notta.ai",
+    "logo": ""
+  },
+  {
+    "name": "Sembly AI",
+    "slug": "sembly-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI meeting assistant that creates intelligent meeting notes and action items.",
+    "website": "https://www.sembly.ai",
+    "logo": ""
+  },
+  {
+    "name": "Airgram",
+    "slug": "airgram",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI meeting recorder with live transcription and collaborative note-taking.",
+    "website": "https://www.airgram.io",
+    "logo": ""
+  },
+  {
+    "name": "Read AI",
+    "slug": "read-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI meeting intelligence tool that provides engagement scores and key topics.",
+    "website": "https://www.read.ai",
+    "logo": ""
+  },
+  {
+    "name": "Grain AI",
+    "slug": "grain-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI meeting recorder for capturing insights and sharing video clips from calls.",
+    "website": "https://grain.com",
+    "logo": ""
+  },
+  {
+    "name": "Vowel AI",
+    "slug": "vowel-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI meeting platform for hosting, recording, and summarizing video calls.",
+    "website": "https://www.vowel.com",
+    "logo": ""
+  },
+  {
+    "name": "Claap AI",
+    "slug": "claap-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI video meeting tool that records calls and auto-generates summaries.",
+    "website": "https://www.claap.io",
+    "logo": ""
+  },
+  {
+    "name": "Clearword AI",
+    "slug": "clearword-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "Real-time AI assistant that writes meeting notes and follow-ups during calls.",
+    "website": "https://clearword.com",
+    "logo": ""
+  },
+  {
+    "name": "Tactiq",
+    "slug": "tactiq",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI transcription tool for Google Meet, Zoom, and Teams with real-time captions.",
+    "website": "https://tactiq.io",
+    "logo": ""
+  },
+  {
+    "name": "MeetGeek AI",
+    "slug": "meetgeek-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI meeting assistant that auto-records, transcribes, and summarizes meetings.",
+    "website": "https://meetgeek.ai",
+    "logo": ""
+  },
+  {
+    "name": "Spinach AI",
+    "slug": "spinach-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI Scrum assistant that joins standup meetings and creates action items.",
+    "website": "https://www.spinach.io",
+    "logo": ""
+  },
+  {
+    "name": "Jamie AI",
+    "slug": "jamie-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI meeting assistant that generates meeting summaries without needing a bot.",
+    "website": "https://www.meetjamie.ai",
+    "logo": ""
+  },
+  {
+    "name": "Fellow AI",
+    "slug": "fellow-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI meeting management platform for agendas, notes, and follow-ups.",
+    "website": "https://fellow.app",
+    "logo": ""
+  },
+  {
+    "name": "Tempi AI",
+    "slug": "tempi-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI workflow automation platform for connecting tools and automating business processes.",
+    "website": "https://www.tempi.ai",
+    "logo": ""
+  },
+  {
+    "name": "Relay.app",
+    "slug": "relay-app",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI-powered workflow automation tool combining human review with automation.",
+    "website": "https://www.relay.app",
+    "logo": ""
+  },
+  {
+    "name": "Activepieces AI",
+    "slug": "activepieces-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "Open-source AI-friendly automation tool for connecting apps and automating tasks.",
+    "website": "https://www.activepieces.com",
+    "logo": ""
+  },
+  {
+    "name": "Lindy AI",
+    "slug": "lindy-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI assistant platform for automating tasks across email, calendar, and apps.",
+    "website": "https://www.lindy.ai",
+    "logo": ""
+  },
+  {
+    "name": "Cassidy AI",
+    "slug": "cassidy-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI workplace assistant that connects to your tools to automate repetitive tasks.",
+    "website": "https://www.cassidyai.com",
+    "logo": ""
+  },
+  {
+    "name": "Dust AI",
+    "slug": "dust-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI-powered platform for building internal company knowledge assistants.",
+    "website": "https://dust.tt",
+    "logo": ""
+  },
+  {
+    "name": "Guru AI",
+    "slug": "guru-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI enterprise knowledge management platform that surfaces answers in your workflow.",
+    "website": "https://www.getguru.com",
+    "logo": ""
+  },
+  {
+    "name": "Tettra AI",
+    "slug": "tettra-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI-powered internal knowledge base and company wiki for teams.",
+    "website": "https://tettra.com",
+    "logo": ""
+  },
+  {
+    "name": "Slab AI",
+    "slug": "slab-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI knowledge hub for teams with intelligent search across all company docs.",
+    "website": "https://slab.com",
+    "logo": ""
+  },
+  {
+    "name": "Coda AI",
+    "slug": "coda-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI features in Coda docs for summarizing, drafting, and automating workflows.",
+    "website": "https://coda.io/product/ai",
+    "logo": ""
+  },
+  {
+    "name": "Craft AI",
+    "slug": "craft-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI writing and note-taking app for organizing thoughts and documents.",
+    "website": "https://www.craft.do",
+    "logo": ""
+  },
+  {
+    "name": "Anytype AI",
+    "slug": "anytype-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "Open-source local-first knowledge management app with AI writing assistance.",
+    "website": "https://anytype.io",
+    "logo": ""
+  },
+  {
+    "name": "Obsidian AI",
+    "slug": "obsidian-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI plugins for Obsidian note-taking app for enhanced knowledge management.",
+    "website": "https://obsidian.md",
+    "logo": ""
+  },
+  {
+    "name": "Logseq AI",
+    "slug": "logseq-ai",
+    "category": "Productivity",
+    "pricing": "Free",
+    "description": "Open-source knowledge management tool with AI features for personal knowledge graphs.",
+    "website": "https://logseq.com",
+    "logo": ""
+  },
+  {
+    "name": "Roam Research AI",
+    "slug": "roam-research-ai",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "description": "AI-enhanced networked thought tool for building a personal knowledge graph.",
+    "website": "https://roamresearch.com",
+    "logo": ""
+  },
+  {
+    "name": "Capacities AI",
+    "slug": "capacities-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI-assisted studio for your knowledge with connected notes and media.",
+    "website": "https://capacities.io",
+    "logo": ""
+  },
+  {
+    "name": "Heptabase AI",
+    "slug": "heptabase-ai",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "description": "AI visual learning and knowledge management tool with spatial whiteboards.",
+    "website": "https://heptabase.com",
+    "logo": ""
+  },
+  {
+    "name": "Tana AI",
+    "slug": "tana-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI-powered note-taking app for building a superbrain workspace.",
+    "website": "https://tana.inc",
+    "logo": ""
+  },
+  {
+    "name": "Napkin AI",
+    "slug": "napkin-ai",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "AI visual thinking tool that turns text into graphics, diagrams, and visuals.",
+    "website": "https://www.napkin.ai",
+    "logo": ""
+  },
+  {
+    "name": "Mermaid AI",
+    "slug": "mermaid-ai",
+    "category": "Development",
+    "pricing": "Free",
+    "description": "AI-assisted diagram generation tool using text-based markup language.",
+    "website": "https://mermaid.js.org",
+    "logo": ""
+  },
+  {
+    "name": "Eraser AI",
+    "slug": "eraser-ai",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI diagramming and documentation tool for engineering teams.",
+    "website": "https://www.eraser.io",
+    "logo": ""
+  },
+  {
+    "name": "Creately AI",
+    "slug": "creately-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI-powered visual workspace for diagramming, brainstorming, and planning.",
+    "website": "https://creately.com",
+    "logo": ""
+  },
+  {
+    "name": "Lucidchart AI",
+    "slug": "lucidchart-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI-assisted diagramming tool for flowcharts, org charts, and wireframes.",
+    "website": "https://www.lucidchart.com",
+    "logo": ""
+  },
+  {
+    "name": "Slite AI",
+    "slug": "slite-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI-powered documentation tool for team wikis and knowledge bases.",
+    "website": "https://slite.com",
+    "logo": ""
+  },
+  {
+    "name": "Fibery AI",
+    "slug": "fibery-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI-powered work management and product development platform.",
+    "website": "https://fibery.io",
+    "logo": ""
+  },
+  {
+    "name": "Pitch AI",
+    "slug": "pitch-ai",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "AI-assisted collaborative presentation software for modern teams.",
+    "website": "https://pitch.com",
+    "logo": ""
+  },
+  {
+    "name": "Tome AI",
+    "slug": "tome-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI-native storytelling and presentation tool for creating compelling narratives.",
+    "website": "https://tome.app",
+    "logo": ""
+  },
+  {
+    "name": "SlidesAI",
+    "slug": "slidesai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI tool that creates presentation slides from text in Google Slides.",
+    "website": "https://www.slidesai.io",
+    "logo": ""
+  },
+  {
+    "name": "Plus AI",
+    "slug": "plus-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI presentation builder that generates slides within Google Slides.",
+    "website": "https://www.plusdocs.com",
     "logo": ""
   }
 ]
