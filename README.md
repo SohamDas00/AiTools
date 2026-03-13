@@ -42,14 +42,12 @@ The application uses static JSON data and programmatically generates pages using
 
 <h2>✨ Features</h2>
 <ul>
-<li>Home page describing the dataset and purpose of the project</li>
-<li>Listing page with search, filters, and sorting functionality</li>
+<li>Search, filter, and sort AI tools on the listing page</li>
 <li>Dynamic detail pages generated for each tool</li>
 <li>Pricing-based pages for Free, Paid, and Freemium tools</li>
 <li>Responsive design with dark mode support</li>
-<li>Reusable component-based UI architecture</li>
 <li>SEO-ready metadata and sitemap generation</li>
-<li>Custom 404 page handling invalid routes</li>
+<li>Reusable component-based UI architecture</li>
 </ul>
 
 <hr/>
@@ -122,12 +120,47 @@ Pages are generated using Static Site Generation to ensure performance and SEO o
 <h2>🔮 What I Would Improve With More Time</h2>
 <ul>
 <li>Add category-based navigation and pages</li>
-<li>Toggle dark and light theme</li>
 <li>Add pagination for larger datasets</li>
 <li>Add Open Graph metadata for social sharing</li>
 <li>Enhance filtering UX with multi-select filters</li>
 <li>Add unit tests for utility functions</li>
 </ul>
+
+<hr/>
+
+<h2>💻 Local Development Setup</h2>
+
+<p>To run this project locally:</p>
+
+<p><strong>1. Clone the repository</strong></p>
+
+<pre>
+git clone https://github.com/SohamDas00/AiTools.git
+</pre>
+
+<p><strong>2. Navigate to the project folder</strong></p>
+
+<pre>
+cd AiTools
+</pre>
+
+<p><strong>3. Install dependencies</strong></p>
+
+<pre>
+npm install
+</pre>
+
+<p><strong>4. Run the development server</strong></p>
+
+<pre>
+npm run dev
+</pre>
+
+<p>Open in browser:</p>
+
+<pre>
+http://localhost:3000
+</pre>
 
 <hr/>
 
@@ -149,4 +182,5 @@ https://aitools-soham.vercel.app/
 <h2>👨‍💻 Author</h2>
 <p>
 <strong>Soham Das</strong><br/>
+<a href="https://github.com/SohamDas00" target="_blank">GitHub</a>
 </p>
